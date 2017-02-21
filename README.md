@@ -37,6 +37,6 @@ https://github.com/OperationCode/operationcode_slash_commands
 ### Purpose
 Slack bot that allows users to get information via slack's slash command UI (eg `/events`)  
 ### Languages
-Python  
+Javascript
 ### Frameworks
-Flask  
+node.js
