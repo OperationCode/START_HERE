@@ -1,7 +1,7 @@
 # Welcome!
 Welcome to [Operation Code](https://github.com/OperationCode) and thanks for your interest in contributing. Everything Operation Code does is open source which has led us to acumulating a ton of repos. We understand that can be overwhelming. You can use this list of repos to learn what the main applications are and what languages they use.
 
-### OperationCode
+## OperationCode
 #### Link
 https://github.com/OperationCode/operationcode  
 #### Purpose
@@ -11,7 +11,7 @@ Ruby, HTML, CSS, Javascript
 #### Frameworks
 Rails, Materialize CSS, jQuery  
 
-### OperationCode Backend
+## OperationCode Backend
 #### Link
 https://github.com/OperationCode/operationcode_backend
 #### Purpose
@@ -21,7 +21,7 @@ Ruby
 #### Frameworks
 Rails
 
-### OperationCode Frontend
+## OperationCode Frontend
 #### Link
 https://github.com/OperationCode/operationcode_frontend
 #### Purpose
@@ -32,7 +32,7 @@ Javascript
 TBD
 
 
-### Town Crier
+## Town Crier
 #### Link
 https://github.com/OperationCode/town-crier  
 #### Purpose
@@ -42,7 +42,7 @@ Javascript
 #### Frameworks
 Node  
 
-### OperationCode Bot
+## OperationCode Bot
 #### Link
 https://github.com/OperationCode/operationcode_bot  
 #### Purpose
@@ -52,7 +52,7 @@ Ruby
 #### Frameworks
 Sinatra  
 
-### OperationCode Slash Commands
+## OperationCode Slash Commands
 #### Link
 https://github.com/OperationCode/operationcode_slash_commands  
 #### Purpose
