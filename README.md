@@ -15,7 +15,7 @@ Rails, Materialize CSS, jQuery
 #### Link
 https://github.com/OperationCode/operationcode_backend
 #### Purpose
-The backend APIs for https://operationcod.org. **This is under active development and not yet in production.**
+The backend APIs for https://operationcode.org. **This is under active development and not yet in production.**
 #### Languages
 Ruby
 #### Frameworks
@@ -25,7 +25,7 @@ Rails
 #### Link
 https://github.com/OperationCode/operationcode_frontend
 #### Purpose
-The frontend for https://operationcod.org. **This is under active development and not yet in production.**
+The frontend for https://operationcode.org. **This is under active development and not yet in production.**
 #### Languages
 Javascript
 #### Frameworks
