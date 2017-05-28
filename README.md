@@ -1,11 +1,11 @@
 # Welcome!
-Welcome to [Operation Code](https://github.com/OperationCode) and thanks for your interest in contributing. Everything Operation Code does is open source which has led us to acumulating a ton of repos. We understand that can be overwhelming. You can use this list of repos to learn what the main applications are and what languages they use.
+Welcome to [Operation Code](https://github.com/OperationCode) and thanks for your interest in contributing. Everything Operation Code does is open source. We've got quite a few repos, and we understand that can be overwhelming, so you can use this list of repos to learn what the main applications are and what languages they use.
 
-## OperationCode
+## OperationCode Site
 #### Link
 https://github.com/OperationCode/operationcode  
 #### Purpose
-This is the repo that contains the code that you see on https://operationcode.org  
+This is the repo that contains the code that you see on https://operationcode.org.
 #### Languages
 Ruby, HTML, CSS, Javascript  
 #### Frameworks
@@ -29,7 +29,7 @@ The frontend for https://operationcode.org. **This is under active development a
 #### Languages
 Javascript
 #### Frameworks
-TBD
+React
 
 
 ## Town Crier
@@ -40,7 +40,7 @@ Slack bot with a cron like interface to notify members of Operation Code opportu
 #### Languages
 Javascript  
 #### Frameworks
-Node  
+node.js
 
 ## OperationCode Bot
 #### Link
@@ -61,3 +61,24 @@ Slack bot that allows users to get information via slack's slash command UI (eg 
 Javascript
 #### Frameworks
 node.js
+
+## Opentroops Projects
+Listing of open source projects with veteran and military-affiliated contributors, and projects supporting military social issues.
+
+https://github.com/codeforamerica/JobOps
+* National Veterans Job Platform - One job, one veteran at a time.
+
+https://github.com/va-data/va-developer
+* This is a repository of APIs and data related to the Department of Veterans Affairs (VA). These APIs, data, tools and resources are intended to provide developers with what they need to develop web and mobile applications, design data visualizations and stories using resources from the VA.
+
+https://github.com/department-of-veterans-affairs
+* Beta version of vets.gov.
+
+https://github.com/mil-oss
+* Repo for http://www.mil-oss.org/, a group dedicated to utilizing & developing open technologies for national defense.
+
+https://github.com/ronrihoo/startups-dot-vet-data
+* Project to analyze veteran entrepreneurship data from http://www.startups.vet/
+
+https://github.com/billy22g/veteran_companies
+* Project to collect data on veteran-owned companies.
