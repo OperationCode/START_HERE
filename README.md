@@ -65,10 +65,10 @@ https://github.com/department-of-veterans-affairs
 * Beta version of vets.gov.
 
 https://github.com/mil-oss
-* Repo for http://www.mil-oss.org/, a group dedicated to utilizing & developing open technologies for national defense.
+* Repo for http://www.mil-oss.org/ , a group dedicated to utilizing & developing open technologies for national defense.
 
 https://github.com/ronrihoo/startups-dot-vet-data
-* Project to analyze veteran entrepreneurship data from http://www.startups.vet/
+* Project to analyze veteran entrepreneurship data from http://www.startups.vet/ 
 
 https://github.com/billy22g/veteran_companies
 * Project to collect data on veteran-owned companies.
