@@ -1,0 +1,15 @@
+[submodule "BACKEND"]
+	path = BACKEND
+	url = https://github.com/OperationCode/operationcode_backend
+[submodule "FRONTEND"]
+	path = FRONTEND
+	url = https://github.com/OperationCode/operationcode_frontend
+[submodule "TOWN-CRIER"]
+	path = TOWN-CRIER
+	url = https://github.com/OperationCode/town-crier
+[submodule "BOT"]
+	path = BOT
+	url = https://github.com/OperationCode/operationcode_bot
+[submodule "SLASH_COMMANDS"]
+	path = SLASH_COMMANDS
+	url = https://github.com/OperationCode/operationcode_slash_commands
