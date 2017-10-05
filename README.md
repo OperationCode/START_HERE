@@ -1,74 +1,147 @@
 # Welcome!
-Welcome to [Operation Code](https://github.com/OperationCode) and thanks for your interest in contributing. Everything Operation Code does is open source. We've got quite a few repos, and we understand that can be overwhelming, so you can use this list of repos to learn what the main applications are and what languages they use.
+Welcome to [Operation Code](https://github.com/OperationCode) and thank you for your interest in contributing. Everything Operation Code does is open source. We've got quite a few repos, and we understand that can be overwhelming, so you can use this list to learn what the main applications are, and what languages they use.
 
 ## OperationCode Backend
-#### Link
-https://github.com/OperationCode/operationcode_backend
-#### Purpose
-The backend API for https://operationcode.org.
-#### Languages
-Ruby
-#### Frameworks
-Rails
+
+<table>
+  <tr>
+    <th>Purpose</th>
+    <td>The backend API for <a href="https://operationcode.org">operationcode.org</a></td>
+  </tr>
+  <tr>
+    <th>Languages</th>
+    <td><a href="https://github.com/OperationCode/operationcode_backend/search?l=ruby">Ruby<a/></td>
+  </tr>
+  <tr>
+    <th>Frameworks</th>
+    <td>Rails</td>
+  </tr>
+    <tr>
+    <th>Link</th>
+    <td><a href="https://github.com/OperationCode/operationcode_backend">Github Repo</a></td>
+  </tr>
+</table>
 
 ## OperationCode Frontend
-#### Link
-https://github.com/OperationCode/operationcode_frontend
-#### Purpose
-The frontend for https://operationcode.org.
-#### Languages
-Javascript
-#### Frameworks
-React
 
+<table>
+  <tr>
+    <th>Purpose</th>
+    <td>The frontend for <a href="https://operationcode.org">operationcode.org</a></td>
+  </tr>
+  <tr>
+    <th>Languages</th>
+    <td><a href="https://github.com/OperationCode/operationcode_frontend/search?l=javascript">Javascript<a/></td>
+  </tr>
+  <tr>
+    <th>Frameworks</th>
+    <td>React</td>
+  </tr>
+    <tr>
+    <th>Link</th>
+    <td><a href="https://github.com/OperationCode/operationcode_frontend">Github Repo</a></td>
+  </tr>
+</table>
 
 ## Town Crier
-#### Link
-https://github.com/OperationCode/town-crier  
-#### Purpose
-Slack bot with a cron like interface to notify members of Operation Code opportunities.   
-#### Languages
-Javascript  
-#### Frameworks
-node.js
+<table>
+  <tr>
+    <th>Purpose</th>
+    <td>Slack bot with a <code>cron</code> like interface to notify members of Operation Code opportunities  </td>
+  </tr>
+  <tr>
+    <th>Languages</th>
+    <td><a href="https://github.com/OperationCode/town-crier/search?l=javascript">Javascript<a/></td>
+  </tr>
+  <tr>
+    <th>Frameworks</th>
+    <td>node.js</td>
+  </tr>
+    <tr>
+    <th>Link</th>
+    <td><a href="https://github.com/OperationCode/town-crier">Github Repo</a></td>
+  </tr>
+</table>
 
 ## OperationCode Bot
-#### Link
-https://github.com/OperationCode/operationcode_bot  
-#### Purpose
-Slack bot for dealing with slack events. Primarily used to display interactive slack messages to create a menu like interface.  
-#### Languages
-Ruby
-#### Frameworks
-Sinatra  
+
+<table>
+  <tr>
+    <th>Purpose</th>
+    <td>Slack bot for dealing with slack events. Primarily used to display interactive slack messages to create a menu-like interface</td>
+  </tr>
+  <tr>
+    <th>Languages</th>
+    <td><a href="https://github.com/OperationCode/operationcode_bot/search?l=ruby">Ruby<a/></td>
+  </tr>
+  <tr>
+    <th>Frameworks</th>
+    <td>Sinatra</td>
+  </tr>
+    <tr>
+    <th>Link</th>
+    <td><a href="https://github.com/OperationCode/operationcode_bot">Github Repo</a></td>
+  </tr>
+</table>
 
 ## OperationCode Slash Commands
-#### Link
-https://github.com/OperationCode/operationcode_slash_commands  
-#### Purpose
-Slack bot that allows users to get information via slack's slash command UI (eg `/events`)  
-#### Languages
-Javascript
-#### Frameworks
-node.js
+
+<table>
+  <tr>
+    <th>Purpose</th>
+    <td>Slack bot that allows users to get information via slack's slash command UI (eg <code>/events<code>)  </td>
+  </tr>
+  <tr>
+    <th>Languages</th>
+    <td><a href="https://github.com/OperationCode/operationcode_slashbot/search?l=javascript">Javascript<a/></td>
+  </tr>
+  <tr>
+    <th>Frameworks</th>
+    <td>node.js</td>
+  </tr>
+    <tr>
+    <th>Link</th>
+    <td><a href="https://github.com/OperationCode/operationcode_slash_commands ">Github Repo</a></td>
+  </tr>
+</table>
 
 ## Opentroops Projects
-Listing of open source projects with veteran and military-affiliated contributors, and projects supporting military social issues.
+Various open source projects with veteran and military-affiliated contributors, and projects supporting military social issues.
 
-https://github.com/codeforamerica/JobOps
-* National Veterans Job Platform - One job, one veteran at a time.
-
-https://github.com/va-data/va-developer
-* This is a repository of APIs and data related to the Department of Veterans Affairs (VA). These APIs, data, tools and resources are intended to provide developers with what they need to develop web and mobile applications, design data visualizations and stories using resources from the VA.
-
-https://github.com/department-of-veterans-affairs
-* Beta version of vets.gov.
-
-https://github.com/mil-oss
-* Repo for http://www.mil-oss.org/ , a group dedicated to utilizing & developing open technologies for national defense.
-
-https://github.com/ronrihoo/startups-dot-vet-data
-* Project to analyze veteran entrepreneurship data from http://www.startups.vet/ 
-
-https://github.com/billy22g/veteran_companies
-* Project to collect data on veteran-owned companies.
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Description</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td>National Veterans Job Platform</td>
+    <td>One job one veteran at a time</td>
+    <td><a href="https://github.com/codeforamerica/JobOps">JobOps Github<a/></td>
+  </tr>
+  <tr>
+    <td>Department of Veterans Affairs Developer Area</td>
+    <td>This is a repository of APIs and data related to the Department of Veterans Affairs (VA). These APIs, data, tools and resources are intended to provide developers with what they need to develop web and mobile applications, design data visualizations and stories using resources from the VA.</td>
+    <td><a href="https://github.com/va-data/va-developer">VaDeveloper Github<a/></td>
+  </tr>
+  <tr>
+    <td>Department of Veterans Affairs Repo</td>
+    <td>Beta version of vets.gov</td>
+    <td><a href="https://github.com/department-of-veterans-affairs">Vets.gov Github<a/></td>
+  </tr>
+  <tr>
+    <td>Mil-OSS</td>
+    <td>Repo for <a href="http://www.mil-oss.org/">mil-oss</a>, a group dedicated to utilizing & developing open technologies for national defense</td>
+    <td><a href="https://github.com/mil-oss">mil-oss Github<a/></td>
+  </tr>
+    <tr>
+    <td><a href="startups.vet">startups.vet</a> data analyzation</td>
+    <td>Project to analyze veteran entrepreneurship data from <a href="startups.vet">startups.vet</a></td>
+    <td><a href="https://github.com/ronrihoo/startups-dot-vet-data">Github<a/></td>
+  </tr>
+    <tr>
+    <td>Veteran-led Companies Database</td>
+    <td>Project to collect data on veteran-owned companies</td>
+    <td><a href="https://github.com/billy22g/veteran_companies">Veteran Companies Github<a/></td>
+  </tr>
+</table>
