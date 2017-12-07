@@ -1,9 +1,28 @@
 # Welcome!
 Welcome to [Operation Code](https://github.com/OperationCode) and thank you for your interest in contributing. Everything Operation Code does is open source. We've got quite a few repos, and we understand that can be overwhelming, so you can use this list to learn what the main applications are, and what languages they use.
 
-## Hacktoberfest
+## Operation Code Challenge
 
-If you're here looking for a place to contribute pull requests as part of GitHub's "Hacktoberfest", you're in the right place! Please look forward to an increased amount of documentation and tickets. We highly recommend joining our organization at operationcode.org to receive an invite to our Slack team. From there, you'll join the `#oc-projects` channel. You can get help from multiple professional developers and people who have worked on the application since day 1! Happy hacking!
+<table>
+  <tr>
+    <th>Purpose</th>
+    <td>A challenge for participating with <a href="https://operationcode.org">operationcode.org</a> and getting help with available resources</td>
+  </tr>
+  <tr>
+    <th>Languages</th>
+    <td> You can contribute to a project in any language or modify a current project with the language you prefer. </td>
+  </tr>
+  <tr>
+    <th>Frameworks</th>
+    <td> Open choice depending on the project</td>
+  </tr>
+    <tr>
+    <th>Link</th>
+    <td><a href="https://github.com/OperationCode/OC_Challenge">Github Repo</a></td>
+  </tr>
+</table>
+
+
 
 ## OperationCode Backend
 
@@ -85,6 +104,27 @@ If you're here looking for a place to contribute pull requests as part of GitHub
     <tr>
     <th>Link</th>
     <td><a href="https://github.com/OperationCode/operationcode_bot">Github Repo</a></td>
+  </tr>
+</table>
+
+## OperationCodePyBot
+
+<table>
+  <tr>
+    <th>Purpose</th>
+    <td>Slack python bot for dealing with slack events. Primary use for interacting with new members. Currently in initial development stages.</td>
+  </tr>
+  <tr>
+    <th>Languages</th>
+    <td><a href="https://github.com/OperationCode/operation_code_pybot/search?l=python">Python<a/></td>
+  </tr>
+  <tr>
+    <th>Frameworks</th>
+    <td>Sinatra</td>
+  </tr>
+    <tr>
+    <th>Link</th>
+    <td><a href="https://github.com/OperationCode/operation_code_pybot">Github Repo</a></td>
   </tr>
 </table>
 
