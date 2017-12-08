@@ -69,8 +69,8 @@ Releases should not block on features on the roadmap, rather they should happen 
 ## How a patch gets merged
 
 * Open Pull Request (anyone)
-* Code reviewed by a Maintainer, Lieutenant, or Project Lead. Approval is indicated by :+1: on the pull request.
-* Merged after :+1: votes by at least two Maintainers for the component(s) affected by your patch.
+* Code reviewed by a Maintainer, Lieutenant, or Project Lead - who will then approve or request changes to the pull request using Github's reviewing tool.
+* Merged after approvals by at least two Maintainers for the component(s) affected by your patch.
 
 ## Patch Appeals Process
 
