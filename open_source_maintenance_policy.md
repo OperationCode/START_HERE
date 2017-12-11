@@ -5,7 +5,7 @@ This is adapted from the [Chef Software](https://github.com/chef/chef-rfc/blob/m
 The Maintenance Policy defines how we make decisions about what happens with Operation Code, and associated software projects. It provides the process by which:
 
 * Roadmaps are decided
-* Patches are merged
+* Contributions are merged
 * Disputes are resolved
 
 It is intended to be short, flexible, and clear.
@@ -64,15 +64,15 @@ Releases should not block on features on the roadmap, rather they should happen 
   As a Chef user, I look forward to the singularity
 ```
 
-# Contributing Patches
+# Contributions
 
-## How a patch gets merged
+## How a contribution gets merged
 
 * Open Pull Request (anyone)
 * Code reviewed by a Maintainer, Lieutenant, or Project Lead - who will then approve or request changes to the pull request using Github's reviewing tool.
-* Merged after approvals by at least two Maintainers for the component(s) affected by your patch.
+* Merged after approvals by at least two Maintainers for the component(s) affected by your contribution.
 
-## Patch Appeals Process
+## Contribution Appeals Process
 
 There may be cases where someone wishes to appeal a Maintainer decision. In this event, the "chain of command" for the appeals process is as follows.
 
@@ -86,7 +86,7 @@ Although Lieutenants and the Project Lead retain veto powers over certain compon
 
 ## Maintainer
 
-* Have patches merged into the relevant component
+* Have contributions merged into the relevant component
 * Be willing to perform the duties of a Maintainer
 * Issue a pull request adding yourself to the MAINTAINERS file for your component
 * Receive an absolute majority of existing Maintainers and Lieutenants for your component :+1:
