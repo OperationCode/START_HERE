@@ -25,9 +25,9 @@ This file is the canonical source for how the Operation Code projects are mainta
 * Has universal veto power
 * There can be only one
 
-## Lieutenant
+## Sergeant
 
-* Each component in the project may have at most one Lieutenant
+* Each component in the project may have at most one Sergeant
 * Provides guidance on future direction for their component
 * Resolves disputes within their component
 * Has localized veto power
@@ -69,18 +69,18 @@ Releases should not block on features on the roadmap, rather they should happen 
 ## How a contribution gets merged
 
 * Open Pull Request (anyone)
-* Code reviewed by a Maintainer, Lieutenant, or Project Lead - who will then approve or request changes to the pull request using Github's reviewing tool.
+* Code reviewed by a Maintainer, Sergeant, or Project Lead - who will then approve or request changes to the pull request using Github's reviewing tool.
 * Merged after approvals by at least two Maintainers for the component(s) affected by your contribution.
 
 ## Contribution Appeals Process
 
 There may be cases where someone wishes to appeal a Maintainer decision. In this event, the "chain of command" for the appeals process is as follows.
 
-* In the event that the actions of a Maintainer are to be appealed, the appeal should be directed to the Lieutenant for that component. As stated above, a Lt retains veto power for the component(s) for which they are responsible.
+* In the event that the actions of a Maintainer are to be appealed, the appeal should be directed to the Sergeant for that component. As stated above, a Lt retains veto power for the component(s) for which they are responsible.
 
-* In the event that the actions of a Lieutenant are to be appealed, the appeal should be directed to the Project Lead. As stated above, the Project Lead retains universal veto power over all components.
+* In the event that the actions of a Sergeant are to be appealed, the appeal should be directed to the Project Lead. As stated above, the Project Lead retains universal veto power over all components.
 
-Although Lieutenants and the Project Lead retain veto powers over certain components, use of this veto power is not guaranteed by the submission of an appeal to that person. It is expected that the majority decisions of component Maintainers and Lieutenants will be respected in all but the most exceptional circumstances.
+Although Sergeants and the Project Lead retain veto powers over certain components, use of this veto power is not guaranteed by the submission of an appeal to that person. It is expected that the majority decisions of component Maintainers and Sergeants will be respected in all but the most exceptional circumstances.
 
 # How to become a...
 
@@ -89,30 +89,30 @@ Although Lieutenants and the Project Lead retain veto powers over certain compon
 * Have contributions merged into the relevant component
 * Be willing to perform the duties of a Maintainer
 * Issue a pull request adding yourself to the MAINTAINERS file for your component
-* Receive an absolute majority of existing Maintainers and Lieutenants for your component :+1:
-* No veto from the component Lieutenant
+* Receive an absolute majority of existing Maintainers and Sergeants for your component :+1:
+* No veto from the component Sergeant
 * No veto from the current Project Lead
 
-## Lieutenant
+## Sergeant
 
-* Issue a pull request to the MAINTAINERS file making yourself the Lieutenant
-* Be willing to perform the duties of a Lieutenant
-* Receive an absolute majority of existing Lieutenants :+1:
+* Issue a pull request to the MAINTAINERS file making yourself the Sergeant
+* Be willing to perform the duties of a Sergeant
+* Receive an absolute majority of existing Sergeants :+1:
 * No veto from the current Project Lead
 
 ## Project Lead
 
 * Issue a pull request to the MAINTAINERS file making yourself the Project Lead
 * Be willing to perform the duties of the Project Lead
-* Receive an absolute majority of existing Lieutenants :+1:
+* Receive an absolute majority of existing Sergeants :+1:
 * No veto from Operation Code leadership 
 
-# Removing a Maintainer, Lieutenant or Project Lead
+# Removing a Maintainer, Sergeant or Project Lead
 
-If a Maintainer, Lieutenant or Project Lead consistently fails to maintain their responsibilities or becomes disruptive, they can be removed by:
+If a Maintainer, Sergeant or Project Lead consistently fails to maintain their responsibilities or becomes disruptive, they can be removed by:
 
 * Issue a pull request removing them from the MAINTAINERS file
-* Receive an absolute majority of existing Lieutenants :+1:
+* Receive an absolute majority of existing Sergeants :+1:
 * No veto from the current Project Lead
 
 OR
@@ -122,15 +122,15 @@ OR
 
 # How to add a component
 
-* Issue a pull request to the MAINTAINERS file describing the component, and making yourself Lieutenant
-* Be willing to perform the duties of a Lieutenant
-* Receive an absolute majority of existing Lieutenants :+1:
+* Issue a pull request to the MAINTAINERS file describing the component, and making yourself Sergeant
+* Be willing to perform the duties of a Sergeant
+* Receive an absolute majority of existing Sergeants :+1:
 * No veto from the current Project Lead
 
 # How to change the rules by which the project is maintained
 
 * Issue a pull request to this file.
-* Receive an absolute majority of existing Lieutenants from the repository MAINTAINERS file :+1:
+* Receive an absolute majority of existing Sergeants from the repository MAINTAINERS file :+1:
 * No veto from the current Project Lead
 
 # Where can I find the community?
