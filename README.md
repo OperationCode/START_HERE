@@ -1,10 +1,6 @@
 # Welcome!
 Welcome to [Operation Code](https://github.com/OperationCode) and thank you for your interest in contributing. Everything Operation Code does is open source. We've got quite a few repos, and we understand that can be overwhelming, so you can use this list to learn what the main applications are, and what languages they use.
 
-## Hacktoberfest
-
-If you're here looking for a place to contribute pull requests as part of GitHub's "Hacktoberfest", you're in the right place! Please look forward to an increased amount of documentation and tickets. We highly recommend joining our organization at operationcode.org to receive an invite to our Slack team. From there, you'll join the `#oc-projects` channel. You can get help from multiple professional developers and people who have worked on the application since day 1! Happy hacking!
-
 ## Open Source Maintenance Policy
 
 You can find our official [Open Source Maintenance Policy](open_source_maintenance_policy.md) in this repo.  
