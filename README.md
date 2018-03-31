@@ -1,5 +1,9 @@
 # Welcome!
-Welcome to [Operation Code](https://github.com/OperationCode) and thank you for your interest in contributing. Everything Operation Code does is open source. We've got quite a few repos, and we understand that can be overwhelming, so you can use this list to learn what the main applications are, and what languages they use. In addition to any of these projects, you can join our Slack channel \#oc-projects to learn how to contribute. Once your first PR (pull request) contribution is accepted, please fill out [this form](https://goo.gl/forms/dxbEmwMuGRrJudeK2) to get your sticker!
+Welcome to [Operation Code](https://github.com/OperationCode) and thank you for your interest in contributing. Everything Operation Code does is open source. We've got quite a few repos, and we understand that can be overwhelming, so you can use this list to learn what the main applications are, and what languages they use. 
+
+In addition to any of these projects, you can join our Slack channel \#oc-projects to learn how to contribute. 
+
+Once you've joined Operation code as a member, after your first PR (pull request) contribution is accepted, please fill out [this form](https://goo.gl/forms/dxbEmwMuGRrJudeK2) to get your sticker!
 
 
 ## Operation Code Challenge
