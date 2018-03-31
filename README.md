@@ -1,5 +1,26 @@
 # Welcome!
-Welcome to [Operation Code](https://github.com/OperationCode) and thank you for your interest in contributing. Everything Operation Code does is open source. We've got quite a few repos, and we understand that can be overwhelming, so you can use this list to learn what the main applications are, and what languages they use.
+Welcome to [Operation Code](https://github.com/OperationCode) and thank you for your interest in contributing. Everything Operation Code does is open source. We've got quite a few repos, and we understand that can be overwhelming, so you can use this list to learn what the main applications are, and what languages they use. In addition to any of these projects you can join our slack channel \#oc-projects to learn how to contribute.
+
+## Operation Code Challenge
+
+<table>
+  <tr>
+    <th>Purpose</th>
+    <td>A challenge for participating with <a href="https://operationcode.org">operationcode.org</a> and getting help with available resources</td>
+  </tr>
+  <tr>
+    <th>Languages</th>
+    <td> You can contribute to a project in any language or modify a current project with the language you prefer. </td>
+  </tr>
+  <tr>
+    <th>Frameworks</th>
+    <td> Open choice depending on the project</td>
+  </tr>
+    <tr>
+    <th>Link</th>
+    <td><a href="https://github.com/OperationCode/OC_Challenge">Github Repo</a></td>
+  </tr>
+</table>
 
 ## Open Source Maintenance Policy
 
@@ -85,6 +106,27 @@ You can find our official [Open Source Maintenance Policy](open_source_maintenan
     <tr>
     <th>Link</th>
     <td><a href="https://github.com/OperationCode/operationcode_bot">Github Repo</a></td>
+  </tr>
+</table>
+
+## OperationCodePyBot
+
+<table>
+  <tr>
+    <th>Purpose</th>
+    <td>Slack python bot for dealing with slack events. Primary use for interacting with new members. Currently in initial development stages.</td>
+  </tr>
+  <tr>
+    <th>Languages</th>
+    <td><a href="https://github.com/OperationCode/operation_code_pybot/search?l=python">Python<a/></td>
+  </tr>
+  <tr>
+    <th>Frameworks</th>
+    <td>Sinatra</td>
+  </tr>
+    <tr>
+    <th>Link</th>
+    <td><a href="https://github.com/OperationCode/operation_code_pybot">Github Repo</a></td>
   </tr>
 </table>
 
