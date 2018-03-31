@@ -22,7 +22,9 @@ Welcome to [Operation Code](https://github.com/OperationCode) and thank you for 
   </tr>
 </table>
 
+## Open Source Maintenance Policy
 
+You can find our official [Open Source Maintenance Policy](open_source_maintenance_policy.md) in this repo.  
 
 ## OperationCode Backend
 
