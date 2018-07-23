@@ -14,11 +14,11 @@ Here are my current thoughts on a roadmap for our overall engineering organziati
 
 * Open Source Basic Training - this will be a guide to getting started with Open Source.  This needs to include lessons (links to particularly good blog post tutorials, etc. are welcome) on Git and Github.  Git is often a major hurdle to getting started - we need strong and very visible learning materials on the essentials of git.  We also need a repo that users can immediately contribute to to put their git and Github skills in action - perhaps a repo of text files that a user can add their name or something else to?  The goal of this basic training is to familiarize someone with the workflow of git and Github - which is critical to contributing to any or our projects.  This should also include a brief guide to each of the major Operation Code Open Soure Projects - what technology they use, links to 101 guides to those technologies, etc.  Members should receive a link to this training immediately when they join the org.
 
-* Better broadcasting across platforms - our town halls are great, especially now that they can be broadcast over Youtube live.  We should look into broadcasting these across other platforms as well - i.e. going live on Facebook or Twitter at the same time as we go live on Youtube, perhaps even including Twitch.  We need to look into software that would let us broadcast over multiple platforms - or at the very least push announcements that we are live to multiple platforms.  Eventually I would like to see this show on the main home page of the site, but that is not within this six month roadmap. 
+* ~~Better broadcasting across platforms - our town halls are great, especially now that they can be broadcast over Youtube live.  We should look into broadcasting these across other platforms as well - i.e. going live on Facebook or Twitter at the same time as we go live on Youtube, perhaps even including Twitch.  We need to look into software that would let us broadcast over multiple platforms - or at the very least push announcements that we are live to multiple platforms.  Eventually I would like to see this show on the main home page of the site, but that is not within this six month roadmap. 
 
 ## Front End
 
-* Policy Page (this is needed for an upcoming event, Jamel Martin will be providing the copy)
+* Policy Page (this is needed for an upcoming event, Jameel Matin will be providing the copy) *COMPLETE*
 
 * Templates for static pages.  One of the biggest bottlenecks over the past year has been React - it can be a difficult framework to get started with, especially when someone is brand new to web development.  Rather than attempt to rewrite our front end in a different framework, I’d like to focus on making our particuarly implementation of React more beginner friendly.  Adding in static content is a great way for a beginner to get started with contributing - let’s make a template that can be copy and pasted for any new static page.  Yes, we might violate the DRY rule a bit here, but I think this is a worthy exception and necessary to our mission.  We need the process of using this template very well documented.  Any new copy for the front end should go in a Github issue with a link to this guide, and these issues should be reserved for first time contributions whenever possible.
 
@@ -38,7 +38,7 @@ Here are my current thoughts on a roadmap for our overall engineering organziati
 
 ## Backend
 
-* Deploy interface for execs to query the database (possibly Active Admin or Forest)
+* Deploy interface for execs to query the database (possibly Active Admin or Forest) *COMPLETE*
 
 * Add ability to run Cron Jobs (need help of infrastructure)
 
