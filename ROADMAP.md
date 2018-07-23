@@ -39,6 +39,7 @@ Here are my current thoughts on a roadmap for our overall engineering organziati
 ## Backend
 
 * Deploy interface for execs to query the database (possibly Active Admin or Forest)
+ * As operations, I want the member list in the backend to contain both signup *and* Slack information, so that I can have a single view of our membership base.
 
 * Add ability to run Cron Jobs (need help of infrastructure)
 
