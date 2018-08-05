@@ -13,46 +13,60 @@ Here are my current thoughts on a roadmap for our overall engineering organziati
 ## Overall
 
 * Open Source Basic Training - this will be a guide to getting started with Open Source.  This needs to include lessons (links to particularly good blog post tutorials, etc. are welcome) on Git and Github.  Git is often a major hurdle to getting started - we need strong and very visible learning materials on the essentials of git.  We also need a repo that users can immediately contribute to to put their git and Github skills in action - perhaps a repo of text files that a user can add their name or something else to?  The goal of this basic training is to familiarize someone with the workflow of git and Github - which is critical to contributing to any or our projects.  This should also include a brief guide to each of the major Operation Code Open Soure Projects - what technology they use, links to 101 guides to those technologies, etc.  Members should receive a link to this training immediately when they join the org.
+ * _still a big priority -conrad_
+ * _we have the pieces in place but need to get them all together -ashley_
+ * _maybe slackbot pings people about it and directs them to a page -nell_
 
-* ~~Better broadcasting across platforms - our town halls are great, especially now that they can be broadcast over Youtube live.  We should look into broadcasting these across other platforms as well - i.e. going live on Facebook or Twitter at the same time as we go live on Youtube, perhaps even including Twitch.  We need to look into software that would let us broadcast over multiple platforms - or at the very least push announcements that we are live to multiple platforms.  Eventually I would like to see this show on the main home page of the site, but that is not within this six month roadmap. 
+* Deprioritized ~~Better broadcasting across platforms - our town halls are great, especially now that they can be broadcast over Youtube live.  We should look into broadcasting these across other platforms as well - i.e. going live on Facebook or Twitter at the same time as we go live on Youtube, perhaps even including Twitch.  We need to look into software that would let us broadcast over multiple platforms - or at the very least push announcements that we are live to multiple platforms.  Eventually I would like to see this show on the main home page of the site, but that is not within this six month roadmap. 
 
 ## Front End
 
-* Policy Page (this is needed for an upcoming event, Jameel Matin will be providing the copy) *COMPLETE*
+* ~~Policy Page (this is needed for an upcoming event, Jameel Matin will be providing the copy)~~ *COMPLETE*
 
-* Templates for static pages.  One of the biggest bottlenecks over the past year has been React - it can be a difficult framework to get started with, especially when someone is brand new to web development.  Rather than attempt to rewrite our front end in a different framework, I’d like to focus on making our particuarly implementation of React more beginner friendly.  Adding in static content is a great way for a beginner to get started with contributing - let’s make a template that can be copy and pasted for any new static page.  Yes, we might violate the DRY rule a bit here, but I think this is a worthy exception and necessary to our mission.  We need the process of using this template very well documented.  Any new copy for the front end should go in a Github issue with a link to this guide, and these issues should be reserved for first time contributions whenever possible.
+* Templates for static pages.  One of the biggest bottlenecks over the past year has been React - it can be a difficult framework to get started with, especially when someone is brand new to web development.  Rather than attempt to rewrite our front end in a different framework, I’d like to focus on making our particuarly implementation of React more beginner friendly.  Adding in static content is a great way for a beginner to get started with contributing - let’s make a template that can be copy and pasted for any new static page.  Yes, we might violate the DRY rule a bit here, but I think this is a worthy exception and necessary to our mission.  We need the process of using this template very well documented.  Any new copy for the front end should go in a Github issue with a link to this guide, and these issues should be reserved for first time contributions whenever possible. _does kyle's work negate this?_
 
-* Host docsify page on docs.operationcode.org - we need to have our docs in one easy to find and easy to navigate place, this is essential to making sure people can find the information they need quickly.  
+* ~~Host docsify page on docs.operationcode.org - we need to have our docs in one easy to find and easy to navigate place, this is essential to making sure people can find the information they need quickly.~~ _deprioritized, github will suffice for now -nell_
 
-* Landing Page ReDesign
+* *P1* Landing Page ReDesign _we need to communicate who we are and how you become a part of us, how to join. How do they know if we're legitimate? -davidm_
+ * Re-think and redo hero banner implementation
 
 * Introduce a drop-down item for the navbar.
 
-* Re-think and redo hero banner implementation
-
 * Make sure that all UI components have Jest snapshot tests and Storybook instances
+ * _in progress with kyle_
 
 * Document how to add a Jest test and a Storybook instance of a component
+ * _in progress with kyle_
 
 * Discuss moving shared components into UI Lib via NPM
+ * _check with kyle if this is still necessary -nell_
 
 ## Backend
 
-* Deploy interface for execs to query the database (possibly Active Admin or Forest)
+* ~~Deploy interface for execs to query the database (possibly Active Admin or Forest)~~ _done!_
  * As operations, I want the member list in the backend to contain both signup *and* Slack information, so that I can have a single view of our membership base.
 
-* Add ability to run Cron Jobs (need help of infrastructure)
+* ~~Add ability to run Cron Jobs (need help of infrastructure)~~
+ * _need more info, was requested by harry -ashley_
+ * _deprioritized until we have a backend lead - nell_
 
-* Set up new Code Climate account - this will help give us insight into the health of our codebase, and ensure we are using best practices and keeping it beginner friendly!
+* ~~Set up new Code Climate account - this will help give us insight into the health of our codebase, and ensure we are using best practices and keeping it beginner friendly!~~
+ * _deprioritized - nell_
 
-* Implement roles/permissions for end users
+* ~~Implement roles/permissions for end users~~ _done!_
 
 * Implement an authentication strategy/option to secure and expose the API (for non-signed in user consumers, i.e. Slack, apps, etc.)
+ * _need more info from long_common_name -nell_
 
 ## Infrastructure
 
-* Staging Environment for operationcode.org - this is the number one priority, currently we can only run operationcode.org components locally or in production, we need a staging environment we can deploy to and test components in a production-like environment before deploying to production.  This is essential and gives us a strong safety net for testing the effects of new commits before they go to production.
+* *P1* Staging Environment for operationcode.org - this is the number one priority, currently we can only run operationcode.org components locally or in production, we need a staging environment we can deploy to and test components in a production-like environment before deploying to production.  This is essential and gives us a strong safety net for testing the effects of new commits before they go to production.
+ * _still a big priority -nell_
+ * _looking at how we can get this done -ashley_
 
 * Log Collection Solution - currently logs can only be viewed through the Kubernetes cli - and it is very difficult to see logs across our Kubernetes pods.  We need a centralized logging solution to help quickly troubleshoot errors and watch for patterns.
+ * _still a priority -nell_
+ * _needed for debugging -ashley_
 
 * Secrets Management Solution
+ *  _deprioritized since there is a way to do this through Kubernetes right now -nell_
