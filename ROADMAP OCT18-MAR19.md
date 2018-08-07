@@ -1,20 +1,23 @@
 ## New User Experience -davidm
 * Investigate from a UX/design perspective how we want to handle our own signup vs. Slack signup
- * Is there a way we can combine the two? -davidm
- * Explore removing autoinvite from Heroku and bringing into our current infrastructure -conrad
- * Have an indicator on our landing page that we are on Slack -davidm
- * Verification of new member re. Slack for security -nell
+ * _05AUG - Is there a way we can combine the two? -davidm
+ * 05AUG - Explore removing autoinvite from Heroku and bringing into our current infrastructure -conrad
+ * 05AUG - Have an indicator on our landing page that we are on Slack -davidm
+ * 05AUG - Verification of new member re. Slack for security -nell
 
 ## Infrastructure -ashley
 * Assess other infrastructure options besides Kubernetes
- * Now? (the platform) -kyle
+ * _05AUG - Now? (the platform) -kyle_
+ * _05AUG - AWS Elastic Beanstalk? -nell_
 
 ## Data Analytics -conrad
-* Retrieve user demographic data from Facebook and LinkedIn social media login
+* Retrieve user demographic data from Facebook and Google social media login
+ * _05AUG - add LinkedIn -conrad_
+ * _05AUG - Need backend dev to move forward -davidm_
 * Integrate Meetup Pro user data to backend
 * Means of data collection
- * talk to cam -ashley
+ * _05AUG - talk to cam -ashley_
 
 ## Data Retention Policy -nell
 * Research data protection -nell
- * #cyber-security can support -ashley
+ * _05AUG - #cyber-security can support -ashley_
