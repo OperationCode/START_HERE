@@ -75,4 +75,5 @@ Here are my current thoughts on a roadmap for our overall engineering organazati
  * _05AUG - needed for debugging -ashley_
 
 * Secrets Management Solution
+ *  _08AUG - this is been reprioritized after further discussion and research (Thank you, Ashley!) -nell_
  *  _05AUG - deprioritized since there is a way to do this through Kubernetes right now -nell_
