@@ -1,3 +1,15 @@
+<div align="center">
+  <br />
+  <a href="https://operationcode.org">
+    <img
+      alt="Operation Code Hacktoberfest Banner"
+      src="https://s3.amazonaws.com/operationcode-assets/operationcode-hacktoberfest-2018.png"
+    >
+  </a>
+  <br />
+  <br />
+</div>
+
 # Welcome!
 Welcome to [Operation Code](https://github.com/OperationCode) and thank you for your interest in contributing. Everything Operation Code does is open source. We love to receive contributions from our community — you! There are many ways to contribute, from writing tutorials or blog posts, improving the documentation, submitting bug reports and feature requests or writing code which can be incorporated into the website itself.
 
@@ -71,7 +83,7 @@ You can find our official [Open Source Maintenance Policy](open_source_maintenan
   </tr>
   <tr>
     <th>Languages</th>
-    <td><a href="https://github.com/OperationCode/operationcode_frontend/search?l=javascript">Javascript<a/></td>
+    <td><a href="https://github.com/OperationCode/front-end/search?l=javascript">Javascript<a/></td>
   </tr>
   <tr>
     <th>Frameworks</th>
@@ -79,7 +91,7 @@ You can find our official [Open Source Maintenance Policy](open_source_maintenan
   </tr>
     <tr>
     <th>Link</th>
-    <td><a href="https://github.com/OperationCode/operationcode_frontend">Github Repo</a></td>
+    <td><a href="https://github.com/OperationCode/front-end">Github Repo</a></td>
   </tr>
 </table>
 
@@ -133,7 +145,7 @@ You can find our official [Open Source Maintenance Policy](open_source_maintenan
   </tr>
   <tr>
     <th>Languages</th>
-    <td><a href="https://github.com/OperationCode/operation_code_pybot/search?l=python">Python<a/></td>
+    <td><a href="https://github.com/OperationCode/operationcode-pybot/search?l=python">Python<a/></td>
   </tr>
   <tr>
     <th>Frameworks</th>
@@ -141,7 +153,7 @@ You can find our official [Open Source Maintenance Policy](open_source_maintenan
   </tr>
     <tr>
     <th>Link</th>
-    <td><a href="https://github.com/OperationCode/operation_code_pybot">Github Repo</a></td>
+    <td><a href="https://github.com/OperationCode/operationcode-pybot">Github Repo</a></td>
   </tr>
 </table>
 
