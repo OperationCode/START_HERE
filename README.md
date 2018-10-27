@@ -178,6 +178,70 @@ You can find our official [Open Source Maintenance Policy](open_source_maintenan
   </tr>
 </table>
 
+## OperationCode Infrastructure
+
+<table>
+  <tr>
+    <th>Purpose</th>
+    <td> Platform infrastructure for the Operation Code site. </td>
+  </tr>
+  <tr>
+    <th>Languages</th>
+    <td><a href="https://github.com/OperationCode/operationcode_infra/search?l=shell">Shell<a/></td>
+  </tr>
+  <tr>
+    <th>Frameworks</th>
+    <td> Kubernetes</td>
+  </tr>
+    <tr>
+    <th>Link</th>
+    <td><a href="https://github.com/OperationCode/operationcode_infra">Github Repo</a></td>
+  </tr>
+</table>
+
+## OperationCode Pyback
+
+<table>
+  <tr>
+    <th>Purpose</th>
+    <td> A microservice supporting PyBot, Resources API, and other features that the official back-end does not manage. </td>
+  </tr>
+  <tr>
+    <th>Languages</th>
+    <td><a href="https://github.com/OperationCode/operationcode-pyback/search?l=python">Python<a/></td>
+  </tr>
+  <tr>
+    <th>Frameworks</th>
+    <td> Docker </td>
+  </tr>
+    <tr>
+    <th>Link</th>
+    <td><a href="https://github.com/OperationCode/operationcode-pyback">Github Repo</a></td>
+  </tr>
+</table>
+
+## OperationCode ResourcesAPI
+
+<table>
+  <tr>
+    <th>Purpose</th>
+    <td> This project provides an API for storing and retrieving learning resources. </td>
+  </tr>
+  <tr>
+    <th>Languages</th>
+    <td><a href="https://github.com/OperationCode/resources_api/search?l=python">Python<a/></td>
+  </tr>
+  <tr>
+    <th>Frameworks</th>
+    <td> Flask </td>
+  </tr>
+    <tr>
+    <th>Link</th>
+    <td><a href="https://github.com/OperationCode/resources_api/"> GitHub Repo</a></td>
+  </tr>
+</table>
+
+
 ## Opentroops Projects
 Various open source projects with veteran and military-affiliated contributors, and projects supporting military social issues.
 
