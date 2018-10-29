@@ -11,7 +11,7 @@
 </div>
 
 # Welcome!
-Welcome to [Operation Code](https://github.com/OperationCode) and thank you for your interest in contributing. Everything Operation Code does is open source. We love to receive contributions from our community — you! There are many ways to contribute, from writing tutorials or blog posts, improving the documentation, submitting bug reports and feature requests or writing code which can be incorporated into the website itself.
+Welcome to [Operation Code](https://github.com/OperationCode) and thank you for your interest in contributing. Everything Operation Code does is open source. We love to receive contributions to our community — you! There are many ways to contribute, from writing tutorials or blog posts, improving the documentation, submitting bug reports and feature requests or writing code which can be incorporated into the website itself.
 
 We've got quite a few repos, and we understand that can be overwhelming, so you can use this list to learn what the main applications are, and what languages they use. 
 
