@@ -13,9 +13,9 @@
 # Welcome!
 Welcome to [Operation Code](https://github.com/OperationCode) and thank you for your interest in contributing. Everything Operation Code does is open source. We love to receive contributions from our community — you! There are many ways to contribute, from writing tutorials or blog posts, improving the documentation, submitting bug reports and feature requests or writing code which can be incorporated into the website itself.
 
-We've got quite a few repos, and we understand that can be overwhelming, so you can use this list to learn what the main applications are, and what languages they use. 
+We've got quite a few repos, and we understand that can be overwhelming, so you can use this list to learn what the main applications are, and what languages they use.
 
-In addition to any of these projects, you can join our Slack channel \#oc-projects to learn how to contribute. 
+In addition to any of these projects, you can join our Slack channel \#oc-projects to learn how to contribute.
 
 If you find yourself wishing for a feature that doesn't exist, you are probably not alone! There are bound to be others out there with similar needs. Many of the features that we have today were added because our users saw the need. Open an issue on our issues list on GitHub which describes the feature you would like to see, why you need it, and how it should work.
 
