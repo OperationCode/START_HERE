@@ -69,7 +69,7 @@ Releases should not block on features on the roadmap, rather they should happen 
 ## How a contribution gets merged
 
 * Open Pull Request (anyone)
-* Code reviewed by a Maintainer, Sergeant, or Project Lead - who will then approve or request changes to the pull request using Github's reviewing tool.
+* Code reviewed by a Maintainer, Sergeant, or Project Lead - who will then approve or request changes to the pull request using GitHub's reviewing tool.
 * Merged after approvals by at least one Maintainer for the component(s) affected by your contribution.
 
 ## Contribution Appeals Process

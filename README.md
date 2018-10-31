@@ -45,7 +45,7 @@ Once you've joined Operation Code as a member, after your first PR (pull request
   </tr>
     <tr>
     <th>Link</th>
-    <td><a href="https://github.com/OperationCode/OC_Challenge">Github Repo</a></td>
+    <td><a href="https://github.com/OperationCode/OC_Challenge">GitHub Repo</a></td>
   </tr>
 </table>
 
@@ -70,7 +70,7 @@ You can find our official [Open Source Maintenance Policy](open_source_maintenan
   </tr>
     <tr>
     <th>Link</th>
-    <td><a href="https://github.com/OperationCode/operationcode_backend">Github Repo</a></td>
+    <td><a href="https://github.com/OperationCode/operationcode_backend">GitHub Repo</a></td>
   </tr>
 </table>
 
@@ -91,7 +91,7 @@ You can find our official [Open Source Maintenance Policy](open_source_maintenan
   </tr>
     <tr>
     <th>Link</th>
-    <td><a href="https://github.com/OperationCode/front-end">Github Repo</a></td>
+    <td><a href="https://github.com/OperationCode/front-end">GitHub Repo</a></td>
   </tr>
 </table>
 
@@ -111,7 +111,7 @@ You can find our official [Open Source Maintenance Policy](open_source_maintenan
   </tr>
     <tr>
     <th>Link</th>
-    <td><a href="https://github.com/OperationCode/town-crier">Github Repo</a></td>
+    <td><a href="https://github.com/OperationCode/town-crier">GitHub Repo</a></td>
   </tr>
 </table>
 
@@ -132,7 +132,7 @@ You can find our official [Open Source Maintenance Policy](open_source_maintenan
   </tr>
     <tr>
     <th>Link</th>
-    <td><a href="https://github.com/OperationCode/operationcode_bot">Github Repo</a></td>
+    <td><a href="https://github.com/OperationCode/operationcode_bot">GitHub Repo</a></td>
   </tr>
 </table>
 
@@ -153,7 +153,7 @@ You can find our official [Open Source Maintenance Policy](open_source_maintenan
   </tr>
     <tr>
     <th>Link</th>
-    <td><a href="https://github.com/OperationCode/operationcode-pybot">Github Repo</a></td>
+    <td><a href="https://github.com/OperationCode/operationcode-pybot">GitHub Repo</a></td>
   </tr>
 </table>
 
@@ -174,7 +174,7 @@ You can find our official [Open Source Maintenance Policy](open_source_maintenan
   </tr>
     <tr>
     <th>Link</th>
-    <td><a href="https://github.com/OperationCode/operationcode_slash_commands ">Github Repo</a></td>
+    <td><a href="https://github.com/OperationCode/operationcode_slash_commands ">GitHub Repo</a></td>
   </tr>
 </table>
 
@@ -190,31 +190,31 @@ Various open source projects with veteran and military-affiliated contributors, 
   <tr>
     <td>National Veterans Job Platform</td>
     <td>One job one veteran at a time</td>
-    <td><a href="https://github.com/codeforamerica/JobOps">JobOps Github<a/></td>
+    <td><a href="https://github.com/codeforamerica/JobOps">JobOps GitHub<a/></td>
   </tr>
   <tr>
     <td>Department of Veterans Affairs Developer Area</td>
     <td>This is a repository of APIs and data related to the Department of Veterans Affairs (VA). These APIs, data, tools and resources are intended to provide developers with what they need to develop web and mobile applications, design data visualizations and stories using resources from the VA.</td>
-    <td><a href="https://github.com/va-data/va-developer">VaDeveloper Github<a/></td>
+    <td><a href="https://github.com/va-data/va-developer">VaDeveloper GitHub<a/></td>
   </tr>
   <tr>
     <td>Department of Veterans Affairs Repo</td>
     <td>Beta version of vets.gov</td>
-    <td><a href="https://github.com/department-of-veterans-affairs">Vets.gov Github<a/></td>
+    <td><a href="https://github.com/department-of-veterans-affairs">Vets.gov GitHub<a/></td>
   </tr>
   <tr>
     <td>Mil-OSS</td>
     <td>Repo for <a href="http://www.mil-oss.org/">mil-oss</a>, a group dedicated to utilizing & developing open technologies for national defense</td>
-    <td><a href="https://github.com/mil-oss">mil-oss Github<a/></td>
+    <td><a href="https://github.com/mil-oss">mil-oss GitHub<a/></td>
   </tr>
     <tr>
     <td><a href="startups.vet">startups.vet</a> data analyzation</td>
     <td>Project to analyze veteran entrepreneurship data from <a href="startups.vet">startups.vet</a></td>
-    <td><a href="https://github.com/ronrihoo/startups-dot-vet-data">Github<a/></td>
+    <td><a href="https://github.com/ronrihoo/startups-dot-vet-data">GitHub<a/></td>
   </tr>
     <tr>
     <td>Veteran-led Companies Database</td>
     <td>Project to collect data on veteran-owned companies</td>
-    <td><a href="https://github.com/billy22g/veteran_companies">Veteran Companies Github<a/></td>
+    <td><a href="https://github.com/billy22g/veteran_companies">Veteran Companies GitHub<a/></td>
   </tr>
 </table>
