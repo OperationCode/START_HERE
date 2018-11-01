@@ -24,7 +24,7 @@ If you find yourself wishing for a feature that doesn't exist, you are probably 
 Working on your first Pull Request? You can learn how from this *free* series, [How to Contribute to an Open Source Project on GitHub](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github).
 
 Feel free to ask for help; everyone is a beginner at first :smile_cat:
-If a maintainer asks you to "rebase" your PR, they're saying that a lot of code has changed, and that you need to update your branch so it's easier to merge.
+If a maintainer asks you to "rebase" your PR, they're saying that a lot of code has changed and that you need to update your branch so it's easier to merge.
 
 Once you've joined Operation Code as a member, after your first PR (pull request) contribution is accepted, please fill out [this form](https://goo.gl/forms/dxbEmwMuGRrJudeK2) to get your sticker!
 
