@@ -1,4 +1,4 @@
-## New User Experience -Davidm
+## New User Experience -David M
 * Investigate from a UX/design perspective how we want to handle our own signup vs. Slack signup
  * _05AUG - Is there a way we can combine the two? -Davidm
  * 05AUG - Explore removing auto-invite from Heroku and bringing into our current infrastructure -Conrad
