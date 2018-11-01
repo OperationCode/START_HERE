@@ -105,7 +105,7 @@ Although Sergeants and the Project Lead retain veto powers over certain componen
 * Issue a pull request to the MAINTAINERS file making yourself the Project Lead
 * Be willing to perform the duties of the Project Lead
 * Receive an absolute majority of existing Sergeants :+1:
-* No veto from Operation Code leadership 
+* No veto from Operation Code leadership
 
 # Removing a Maintainer, Sergeant or Project Lead
 
