@@ -115,27 +115,6 @@ You can find our official [Open Source Maintenance Policy](open_source_maintenan
   </tr>
 </table>
 
-## OperationCode Bot
-
-<table>
-  <tr>
-    <th>Purpose</th>
-    <td>Slack bot for dealing with slack events. Primarily used to display interactive slack messages to create a menu-like interface</td>
-  </tr>
-  <tr>
-    <th>Languages</th>
-    <td><a href="https://github.com/OperationCode/operationcode_bot/search?l=ruby">Ruby<a/></td>
-  </tr>
-  <tr>
-    <th>Frameworks</th>
-    <td>Sinatra</td>
-  </tr>
-    <tr>
-    <th>Link</th>
-    <td><a href="https://github.com/OperationCode/operationcode_bot">Github Repo</a></td>
-  </tr>
-</table>
-
 ## OperationCodePyBot
 
 <table>
@@ -154,27 +133,6 @@ You can find our official [Open Source Maintenance Policy](open_source_maintenan
     <tr>
     <th>Link</th>
     <td><a href="https://github.com/OperationCode/operationcode-pybot">Github Repo</a></td>
-  </tr>
-</table>
-
-## OperationCode Slash Commands
-
-<table>
-  <tr>
-    <th>Purpose</th>
-    <td>Slack bot that allows users to get information via slack's slash command UI (eg <code>/events<code>)  </td>
-  </tr>
-  <tr>
-    <th>Languages</th>
-    <td><a href="https://github.com/OperationCode/operationcode_slashbot/search?l=javascript">Javascript<a/></td>
-  </tr>
-  <tr>
-    <th>Frameworks</th>
-    <td>node.js</td>
-  </tr>
-    <tr>
-    <th>Link</th>
-    <td><a href="https://github.com/OperationCode/operationcode_slash_commands ">Github Repo</a></td>
   </tr>
 </table>
 
