@@ -117,6 +117,28 @@ You can find our official [Open Source Maintenance Policy](open_source_maintenan
   </tr>
 </table>
 
+
+## OperationCode Resources-API
+
+<table>
+  <tr>
+    <th>Purpose</th>
+    <td>Flask API for programming and cyber security learning resources.</td>
+  </tr>
+  <tr>
+    <th>Languages</th>
+    <td><a href="https://www.python.org/">Python</a></td>
+  </tr>
+  <tr>
+    <th>Frameworks</th>
+    <td><a href="http://flask.pocoo.org/">Flask</a></td>
+  </tr>
+    <tr>
+    <th>Link</th>
+    <td><a href="https://github.com/OperationCode/resources_api">GitHub Repo</a></td>
+  </tr>
+</table>
+
 ## Town Crier
 
 <table>
