@@ -22,14 +22,20 @@ If you find yourself wishing for a feature that doesn't exist, you are probably 
 
 # Your First Contribution
 
-Working on your first Pull Request? You can learn how from this _free_ series, [How to Contribute to an Open Source Project on GitHub](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github).
+Working on your first Pull Request? Be sure to check the project's contributing guide, and you can learn about general guidelines for open source contributions from this _free_ series, [How to Contribute to an Open Source Project on GitHub](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github).
 
 Feel free to ask for help; everyone is a beginner at first :smile_cat:
 If a maintainer asks you to "rebase" your PR, they're saying that a lot of code has changed and that you need to update your branch so it's easier to merge.
 
 Once you've joined Operation Code as a member, after your first PR (pull request) contribution is accepted, please fill out [this form](https://goo.gl/forms/dxbEmwMuGRrJudeK2) to get your sticker!
 
-## Operation Code Challenge
+# Open Source Maintenance Policy
+
+You can find our official [Open Source Maintenance Policy](open_source_maintenance_policy.md) in this repo.
+
+# Operation Code Repositories
+
+## [OC Challenge](https://github.com/OperationCode/OC_Challenge)
 
 <table>
   <tr>
@@ -50,11 +56,7 @@ Once you've joined Operation Code as a member, after your first PR (pull request
   </tr>
 </table>
 
-## Open Source Maintenance Policy
-
-You can find our official [Open Source Maintenance Policy](open_source_maintenance_policy.md) in this repo.
-
-## OperationCode Backend
+## [Back-End](https://github.com/OperationCode/back-end)
 
 <table>
   <tr>
@@ -75,7 +77,7 @@ You can find our official [Open Source Maintenance Policy](open_source_maintenan
   </tr>
 </table>
 
-## OperationCode Frontend
+## [Front-End](https://github.com/OperationCode/front-end)
 
 <table>
   <tr>
@@ -96,7 +98,7 @@ You can find our official [Open Source Maintenance Policy](open_source_maintenan
   </tr>
 </table>
 
-## OperationCode PyBot
+## [OperationCode PyBot](https://github.com/OperationCode/operationcode-pybot)
 
 <table>
   <tr>
@@ -117,8 +119,7 @@ You can find our official [Open Source Maintenance Policy](open_source_maintenan
   </tr>
 </table>
 
-
-## OperationCode Resources-API
+## [Resources API](https://github.com/OperationCode/resources_api)
 
 <table>
   <tr>
@@ -139,7 +140,7 @@ You can find our official [Open Source Maintenance Policy](open_source_maintenan
   </tr>
 </table>
 
-## Town Crier
+## [Town Crier](https://github.com/OperationCode/town-crier)
 
 <table>
   <tr>
@@ -159,6 +160,8 @@ You can find our official [Open Source Maintenance Policy](open_source_maintenan
     <td><a href="https://github.com/OperationCode/town-crier">GitHub Repo</a></td>
   </tr>
 </table>
+
+# Outside Organizations/Projects
 
 ## Opentroops Projects
 
