@@ -36,7 +36,7 @@ This file is the canonical source for how the Operation Code projects are mainta
 ## Maintainer
 
 * Each component may have multiple Maintainers
-* Handles contributions on GitHub - first response to a PR within 48 hours
+* Handles contributions to GitHub - first response to a PR within 48 hours
 * Is available in Slack
 * Committed to 100% tests passing for your component
 * Has full commit/merge access to the relevant repositories
