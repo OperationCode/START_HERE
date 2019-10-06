@@ -188,7 +188,7 @@ Various open source projects with veteran and military-affiliated contributors, 
   </tr>
   <tr>
     <td>National Veterans Job Platform</td>
-    <td>One job one veteran at a time</td>
+    <td>One job one veteran at a time.</td>
     <td><a href="https://github.com/codeforamerica/JobOps">JobOps GitHub</a></td>
   </tr>
   <tr>
@@ -198,22 +198,22 @@ Various open source projects with veteran and military-affiliated contributors, 
   </tr>
   <tr>
     <td>Department of Veterans Affairs Repo</td>
-    <td>Beta version of vets.gov</td>
+    <td>Beta version of <a href = "https://www.va.gov/">vets.gov</a>.</td>
     <td><a href="https://github.com/department-of-veterans-affairs">Vets.gov GitHub</a></td>
   </tr>
   <tr>
     <td>Mil-OSS</td>
-    <td>Repo for <a href="http://www.mil-oss.org/">mil-oss</a>, a group dedicated to utilizing & developing open technologies for national defense</td>
+    <td>Repo for <a href="http://www.mil-oss.org/">mil-oss</a>, a group dedicated to utilizing & developing open technologies for national defense.</td>
     <td><a href="https://github.com/mil-oss">mil-oss GitHub</a></td>
   </tr>
     <tr>
     <td><a href="startups.vet">startups.vet</a> data analyzation</td>
-    <td>Project to analyze veteran entrepreneurship data from <a href="startups.vet">startups.vet</a></td>
+    <td>Project to analyze veteran entrepreneurship data from <a href="startups.vet">startups.vet</a>.</td>
     <td><a href="https://github.com/ronrihoo/startups-dot-vet-data">GitHub</a></td>
   </tr>
     <tr>
     <td>Veteran-led Companies Database</td>
-    <td>Project to collect data on veteran-owned companies</td>
+    <td>Project to collect data on veteran-owned companies.</td>
     <td><a href="https://github.com/billy22g/veteran_companies">Veteran Companies GitHub</a></td>
   </tr>
 </table>
