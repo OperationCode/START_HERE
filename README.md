@@ -70,6 +70,19 @@ You can find our official [Open Source Maintenance Policy](open_source_maintenan
 
 ## [OC Challenge](https://github.com/OperationCode/OC_Challenge)
 
+</body>
+
+# Outside Organizations/Projects
+
+## Opentroops Projects
+
+Various open source projects with veteran and military-affiliated contributors, and projects supporting military social issues.
+
+<link rel="stylesheet" type="text/css" href="table.css">
+<link href='https://fonts.googleapis.com/css?family=Amita' rel='stylesheet'>
+
+<body>
+<h1>OPERATION CODE</h1>
 <table>
   <tr>
     <th>Purpose</th>
@@ -237,3 +250,32 @@ Various open source projects with veteran and military-affiliated contributors, 
     <td><a href="https://github.com/billy22g/veteran_companies">Veteran Companies GitHub</a></td>
   </tr>
 </table>
+</body>
+
+# CSS file for this
+
+body{
+  color: black;
+  background-color: #90AFC5;
+}
+h1{
+  text-align: center;
+  font-family: 'Amita';
+  font-size: 60px;
+}
+th{
+  color: #2A3132;
+  font-size: 20px;
+
+}
+td{
+  color: #336B87;
+   font-family: 'Beth Ellen';font-size: 18px;
+}
+table{
+  margin: 30px;
+
+}
+a{
+  text-decoration: none;
+}
