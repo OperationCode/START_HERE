@@ -10,14 +10,15 @@
   <br />
 </div>
 
-# 🎃 Hacktoberfest 🎃
+# 🎃 HACKTOBERFEST 🎃
 
+Hacktoberfest is a challenge brought to all the developers in the month of October in which some organisation comes in [SWAG LIST](https://hacktoberfestswaglist.com/) in which Operation Code is Also counted.
 We at Operation Code **LOVE** [Hacktoberfest](https://hacktoberfest.digitalocean.com). While [DigitalOcean](https://digitalocean.com), [GitHub](https://github.com), and [DEV](https://dev.to) are already sponsoring prizes for the world, we'd like to sweeten the pot.
 
 ## 🎁 Prizes 🎁
 
-- Resolve 3 issues in any one of our repositories and receive a white or black Operation Code t-shirt!
-- Merge 2 pull requests in any one of our repositories and receive a small pack of Operation Code stickers!
+- Resolve 3 issues in any one of OperationCode repositories and receive a white or black Operation Code t-shirt!
+- Merge 2 pull requests in any one of OperationCode repositories and receive a small pack of Operation Code stickers!
 
 ## 📝 Submission 📝 
 
@@ -29,7 +30,8 @@ Welcome to [Operation Code](https://github.com/OperationCode) and thank you for 
 
 We've got quite a few repos, and we understand that can be overwhelming, so you can use this list to learn what the main applications are, and what languages they use.
 
-In addition to any of these projects, you can join our Slack channel \#oc-projects to learn how to contribute.
+In addition to any of these projects, you can join our Slack channel\#oc-projects
+and [Offical Site](https://operationcode.org/join) to learn how to contribute.
 
 If you find yourself wishing for a feature that doesn't exist, you are probably not alone! There are bound to be others out there with similar needs. Many of the features that we have today were added because our users saw the need. Open an issue on our issues list on GitHub which describes the feature you would like to see, why you need it, and how it should work.
 
@@ -46,141 +48,151 @@ Once you've joined Operation Code as a member, after your first PR (pull request
 
 You can find our official [Open Source Maintenance Policy](open_source_maintenance_policy.md) in this repo.
 
-# Operation Code Repositories
+#AIM OF OPERATIONCODE 
+
+We work closely with military veterans, service members, and spouses who are passionate about transitioning into the tech industry. We work with over 5,000 members who are all working towards relevant goals on Slack and in-person meet-ups.
+
+#What is the most effective feature of OperationCode?
+
+The membership is free.
 
 ## [OC Challenge](https://github.com/OperationCode/OC_Challenge)
-
-<table>
+<h1> OPERATION CODE </h1>
+<table border ="|">
   <tr>
-    <th>Purpose</th>
+    <h1><th>Purpose : </th></h1>
     <td>A challenge for participating with <a href="https://operationcode.org">operationcode.org</a> and getting help with available resources</td>
   </tr>
   <tr>
-    <th>Languages</th>
+    <th>Languages : </th>
     <td> You can contribute to a project in any language or modify a current project with the language you prefer. </td>
   </tr>
   <tr>
-    <th>Frameworks</th>
+    <th>Frameworks : </th>
     <td> Open choice depending on the project</td>
   </tr>
     <tr>
-    <th>Link</th>
-    <td><a href="https://github.com/OperationCode/OC_Challenge">GitHub Repo</a></td>
+    <th>Link : </th>
+    <td><a href="https://github.com/OperationCode/OC_Challenge">GitHub Repository</a></td>
   </tr>
 </table>
 
-## [Back-End](https://github.com/OperationCode/back-end)
 
-<table>
+<h1>[Back-End]</h1>
+
+
+
+<table border = "|">
   <tr>
-    <th>Purpose</th>
+    <th>Purpose : </th>
     <td>The backend API for <a href="https://operationcode.org">operationcode.org</a></td>
   </tr>
   <tr>
-    <th>Languages</th>
+    <th>Languages : </th>
     <td><a href="https://www.python.org/">Python</a></td>
   </tr>
   <tr>
-    <th>Frameworks</th>
+    <th>Frameworks : </th>
     <td><a href="https://www.djangoproject.com/">Django</a></td>
   </tr>
     <tr>
-    <th>Link</th>
-    <td><a href="https://github.com/OperationCode/back-end">GitHub Repo</a></td>
+    <th>Link : </th>
+    <td><a href="https://github.com/OperationCode/back-end">GitHub Repository</a></td>
   </tr>
 </table>
 
-## [Front-End](https://github.com/OperationCode/front-end)
+<h1>[Front-End]</h1>
 
-<table>
+<table border = "|">
   <tr>
-    <th>Purpose</th>
+    <th>Purpose : </th>
     <td>The frontend for <a href="https://operationcode.org">operationcode.org</a></td>
   </tr>
   <tr>
-    <th>Languages</th>
+    <th>Languages : </th>
     <td><a href="https://github.com/OperationCode/front-end/search?l=javascript">Javascript</a></td>
   </tr>
   <tr>
-    <th>Frameworks</th>
+    <th>Frameworks : </th>
     <td><a href="https://reactjs.org/">React</a></td>
   </tr>
     <tr>
-    <th>Link</th>
-    <td><a href="https://github.com/OperationCode/front-end">GitHub Repo</a></td>
+    <th>Link : </th>
+    <td><a href="https://github.com/OperationCode/front-end">GitHub Repository</a></td>
   </tr>
 </table>
 
-## [OperationCode PyBot](https://github.com/OperationCode/operationcode-pybot)
+<h1> [OperationCode PyBot]</h1>
 
-<table>
+
+<table border = "|">
   <tr>
-    <th>Purpose</th>
+    <th>Purpose : </th>
     <td>Slack python bot for dealing with slack events.</td>
   </tr>
   <tr>
-    <th>Languages</th>
+    <th>Languages : </th>
     <td><a href="https://www.python.org/">Python</a></td>
   </tr>
   <tr>
-    <th>Frameworks</th>
+    <th>Frameworks : </th>
     <td><a href="https://github.com/pyslackers/sir-bot-a-lot-2">Sir-bot-a-lot</a></td>
   </tr>
     <tr>
-    <th>Link</th>
-    <td><a href="https://github.com/OperationCode/operationcode-pybot">GitHub Repo</a></td>
+    <th>Link : </th>
+    <td><a href="https://github.com/OperationCode/operationcode-pybot">GitHub Repository</a></td>
   </tr>
 </table>
 
-## [Resources API](https://github.com/OperationCode/resources_api)
+<h1>[Resources API]</h1>
 
-<table>
+<table border = "|">
   <tr>
-    <th>Purpose</th>
+    <th>Purpose : </th>
     <td>Flask API for programming and cyber security learning resources.</td>
   </tr>
   <tr>
-    <th>Languages</th>
+    <th>Languages : </th>
     <td><a href="https://www.python.org/">Python</a></td>
   </tr>
   <tr>
-    <th>Frameworks</th>
+    <th>Frameworks : </th>
     <td><a href="http://flask.pocoo.org/">Flask</a></td>
   </tr>
     <tr>
-    <th>Link</th>
-    <td><a href="https://github.com/OperationCode/resources_api">GitHub Repo</a></td>
+    <th>Link : </th>
+    <td><a href="https://github.com/OperationCode/resources_api">GitHub Repository</a></td>
   </tr>
 </table>
 
-## [Town Crier](https://github.com/OperationCode/town-crier)
+<h1>[Town Crier]</h1>
 
-<table>
+<table border = "|">
   <tr>
-    <th>Purpose</th>
+    <th>Purpose : </th>
     <td>Slack bot with a <code>cron</code> like interface to notify members of Operation Code opportunities  </td>
   </tr>
   <tr>
-    <th>Languages</th>
+    <th>Languages : </th>
     <td><a href="https://github.com/OperationCode/town-crier/search?l=javascript">Javascript</a></td>
   </tr>
   <tr>
-    <th>Frameworks</th>
+    <th>Frameworks : </th>
     <td><a href="https://nodejs.org">Node.js</a></td>
   </tr>
     <tr>
-    <th>Link</th>
-    <td><a href="https://github.com/OperationCode/town-crier">GitHub Repo</a></td>
+    <th>Link : </th>
+    <td><a href="https://github.com/OperationCode/town-crier">GitHub Repository</a></td>
   </tr>
 </table>
 
-# Outside Organizations/Projects
+<h1>Outside Organizations/Projects</h1>
 
-## Opentroops Projects
+<h2>Opentroops Projects</h2>
 
-Various open source projects with veteran and military-affiliated contributors, and projects supporting military social issues.
+<p>Various open source projects with veteran and military-affiliated contributors, and projects supporting military social issues.</p>
 
-<table>
+<table border = "|">
   <tr>
     <th>Name</th>
     <th>Description</th>
@@ -217,3 +229,4 @@ Various open source projects with veteran and military-affiliated contributors, 
     <td><a href="https://github.com/billy22g/veteran_companies">Veteran Companies GitHub</a></td>
   </tr>
 </table>
+
