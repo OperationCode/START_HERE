@@ -10,28 +10,26 @@
   <br />
 </div>
 
-# 🎃 Hacktoberfest 🎃
+# 🎃What is Hacktoberfest ??🎃
 
-We at Operation Code **LOVE** [Hacktoberfest](https://hacktoberfest.digitalocean.com). While [DigitalOcean](https://digitalocean.com), [GitHub](https://github.com), and [DEV](https://dev.to) are already sponsoring prizes for the world, we'd like to sweeten the pot.
+[Hacktoberfest](https://hacktoberfest.digitalocean.com). While [DigitalOcean](https://digitalocean.com), [GitHub](https://github.com), and [DEV](https://dev.to) are already sponsoring prizes for the world, we'd like to sweeten the pot.
+Hacktoberfest is a month long virtual festival event to celebrate open source contributions presented by Digital Ocean and DEV. It is the easiest way to get into open source!
+During the entire month of October 2019, all you have to do is contribute to any open source projects and open at least 4 pull requests. Yes, any project and any kind of contributions. You don’t need to be an expert in programming or coding. It can be a be a bug fix, improvement, or even a documentation change! And win an awesome T-shirt and awesome stickers.
 
-## 🎁 Prizes 🎁
+# Why Should I Contribute?
+Support open source and earn a limited edition T-shirt!
 
-- Resolve 3 issues in any one of our repositories and receive a white or black Operation Code t-shirt!
-- Merge 2 pull requests in any one of our repositories and receive a small pack of Operation Code stickers!
+But, it’s not just about the t-shirts or stickers. Its about supporting open source. Its about celebrating open source, and giving it back. If you’ve never contributed to open source before, this is the perfect time to get started because Hacktoberfest provides a large list of available contribution opportunities (and yes, there are always plenty for beginners too).
 
-## 📝 Submission 📝 
+#  What Can I Contribute?
+Hacktoberfest® is open to everyone in our global community. Whether you’re a developer, student learning to code, event host, or company of any size, you can help drive growth of open source and make positive contributions to an ever-growing community. All backgrounds and skill levels are encouraged to complete the challenge.
+It doesn’t need to be code. It can be even documentation. Or spelling fix.
+You can contribute to any open source project hosted on Github.com and contribute anything between October 1 to October 31 midnight in 2019. You will find plenty of issues labeled with hacktoberfest or good-first-issue etc on Github. These will be the simple ones most probably and easy to fix.
 
-When you're done celebrating Hacktoberfest with us, please submit your details via [this form](https://forms.gle/KLNUkrJdPgqAEDkd9) so that we can get in contact with you about shipping the prizes to you!
+# How Can I Contribute?
+First you need to get yourself registered for Hacktoberfest. Signup at the Hacktoberfest 2019 website below.
+Then as per your interest in any domain or language you can cotribute to any of the organisation. 
 
-# Welcome!
-
-Welcome to [Operation Code](https://github.com/OperationCode) and thank you for your interest in contributing. Everything Operation Code does is open source. We love to receive contributions to our community — you! There are many ways to contribute, from writing tutorials or blog posts, improving the documentation, submitting bug reports and feature requests or writing code which can be incorporated into the website itself.
-
-We've got quite a few repos, and we understand that can be overwhelming, so you can use this list to learn what the main applications are, and what languages they use.
-
-In addition to any of these projects, you can join our Slack channel \#oc-projects to learn how to contribute.
-
-If you find yourself wishing for a feature that doesn't exist, you are probably not alone! There are bound to be others out there with similar needs. Many of the features that we have today were added because our users saw the need. Open an issue on our issues list on GitHub which describes the feature you would like to see, why you need it, and how it should work.
 
 # Your First Contribution
 
@@ -42,9 +40,31 @@ If a maintainer asks you to "rebase" your PR, they're saying that a lot of code 
 
 Once you've joined Operation Code as a member, after your first PR (pull request) contribution is accepted, please fill out [this form](https://goo.gl/forms/dxbEmwMuGRrJudeK2) to get your sticker!
 
+# Now welcome to Operation Code!
+
+Welcome to [Operation Code](https://github.com/OperationCode) and thank you for your interest in contributing. Everything Operation Code does is open source. We love to receive contributions to our community — you! There are many ways to contribute, from writing tutorials or blog posts, improving the documentation, submitting bug reports and feature requests or writing code which can be incorporated into the website itself.
+
+We've got quite a few repos, and we understand that can be overwhelming, so you can use this list to learn what the main applications are, and what languages they use.
+
+In addition to any of these projects, you can join our Slack channel \#oc-projects to learn how to contribute.
+
+If you find yourself wishing for a feature that doesn't exist, you are probably not alone! There are bound to be others out there with similar needs. Many of the features that we have today were added because our users saw the need. Open an issue on our issues list on GitHub which describes the feature you would like to see, why you need it, and how it should work.
+
+## 📝 Submission 📝 
+
+When you're done celebrating Hacktoberfest with us, please submit your details via [this form](https://forms.gle/KLNUkrJdPgqAEDkd9) so that we can get in contact with you about shipping the prizes to you!
+
+
+
+## 🎁 Prizes 🎁
+
+- Resolve 3 issues in any one of our repositories and receive a white or black Operation Code t-shirt!
+- Merge 2 pull requests in any one of our repositories and receive a small pack of Operation Code stickers!
+
 # Open Source Maintenance Policy
 
 You can find our official [Open Source Maintenance Policy](open_source_maintenance_policy.md) in this repo.
+
 
 # Operation Code Repositories
 
