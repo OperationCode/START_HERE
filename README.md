@@ -10,7 +10,7 @@
   <br />
 </div>
 
-# 🎃 HACKTOBERFEST 🎃
+# 🎃 HACKTOBERFEST - 🎃
 
 Hacktoberfest is a challenge brought to all the developers in the month of October in which some organisation comes in [SWAG LIST](https://hacktoberfestswaglist.com/) in which Operation Code is Also counted.
 We at Operation Code **LOVE** [Hacktoberfest](https://hacktoberfest.digitalocean.com). While [DigitalOcean](https://digitalocean.com), [GitHub](https://github.com), and [DEV](https://dev.to) are already sponsoring prizes for the world, we'd like to sweeten the pot.
@@ -77,10 +77,7 @@ The membership is free.
   </tr>
 </table>
 
-
 <h1>[Back-End]</h1>
-
-
 
 <table border = "|">
   <tr>
@@ -230,3 +227,16 @@ The membership is free.
   </tr>
 </table>
 
+#Sposnsors of Operation Code 
+
+<a href = "https://www.apexsystems.com/Pages/default.aspx" >Apex System</a>
+<a href = "https://github.com/" >Github</a>
+<a href = "https://slack.com/intl/en-in/" >Slack </a>
+<a href = "https://www.heroku.com/">Heruko</a>
+<a href = "https://1password.com/" >1Password </a>
+<a href = " https://www.usbank.com/" >UsBank </a>
+<a href = "https://www.threatstack.com/" >Threat Stack </a>
+<a href = "https://www.oreilly.com/" >O'Reilly </a>
+<a href = "https://www.hackerrank.com">HackerRank </a>
+<a href = "https://zapier.com/" >Zapier</a>
+<a href = "https://logrocket.com/">Logrocket</a>
