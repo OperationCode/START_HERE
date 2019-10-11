@@ -42,6 +42,33 @@ If a maintainer asks you to "rebase" your PR, they're saying that a lot of code 
 
 Once you've joined Operation Code as a member, after your first PR (pull request) contribution is accepted, please fill out [this form](https://goo.gl/forms/dxbEmwMuGRrJudeK2) to get your sticker!
 
+# General Steps for making successful PR
+
+Steps for making a successful PR in Github
+
+1. Find the repository you would like to make a PR to
+
+2. Fork it 
+
+3. Clone your forked repository using 
+
+git clone <link>
+
+4. Make changes to the cloned repos
+
+5. Then run the three commands 
+
+git add .
+git commit -m "<description>"
+git push origin master
+
+6. Goto ur forked repos and click on Pull Request
+
+7. Then make a Pull Request
+
+Now you have 1 PR if the  parent repository merges your PR
+
+
 # Open Source Maintenance Policy
 
 You can find our official [Open Source Maintenance Policy](open_source_maintenance_policy.md) in this repo.
