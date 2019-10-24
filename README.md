@@ -145,7 +145,7 @@ You can find our official [Open Source Maintenance Policy](open_source_maintenan
   </tr>
   <tr>
     <th>Frameworks</th>
-    <td><a href="http://flask.pocoo.org/">Flask</a></td>
+    <td><a href="https://palletsprojects.com/p/flask/">Flask</a></td>
   </tr>
     <tr>
     <th>Link</th>
@@ -207,8 +207,8 @@ Various open source projects with veteran and military-affiliated contributors, 
     <td><a href="https://github.com/mil-oss">mil-oss GitHub</a></td>
   </tr>
     <tr>
-    <td><a href="startups.vet">startups.vet</a> data analyzation</td>
-    <td>Project to analyze veteran entrepreneurship data from <a href="startups.vet">startups.vet</a></td>
+    <td><a href="https://github.com/ronrihoo/startups-dot-vet-data">startups.vet</a> data analyzation</td>
+    <td>Project to analyze veteran entrepreneurship data from <a href="https://github.com/ronrihoo/startups-dot-vet-data">startups.vet</a></td>
     <td><a href="https://github.com/ronrihoo/startups-dot-vet-data">GitHub</a></td>
   </tr>
     <tr>
