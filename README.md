@@ -217,3 +217,7 @@ Various open source projects with veteran and military-affiliated contributors, 
     <td><a href="https://github.com/billy22g/veteran_companies">Veteran Companies GitHub</a></td>
   </tr>
 </table>
+
+# License
+
+This project is MIT licensed.
