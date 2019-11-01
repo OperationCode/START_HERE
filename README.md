@@ -1,28 +1,3 @@
-<div align="center">
-  <br />
-  <a href="https://operationcode.org">
-    <img
-      alt="Operation Code Hacktoberfest Banner"
-      src="https://operation-code-assets.s3.us-east-2.amazonaws.com/operation_code_hacktoberfest_2019.jpg"
-    >
-  </a>
-  <br />
-  <br />
-</div>
-
-# 🎃 Hacktoberfest 🎃
-
-We at Operation Code **LOVE** [Hacktoberfest](https://hacktoberfest.digitalocean.com). While [DigitalOcean](https://digitalocean.com), [GitHub](https://github.com), and [DEV](https://dev.to) are already sponsoring prizes for the world, we'd like to sweeten the pot.
-
-## 🎁 Prizes 🎁
-
-- Resolve 3 issues in any one of our repositories and receive a white or black Operation Code t-shirt!
-- Merge 2 pull requests in any one of our repositories and receive a small pack of Operation Code stickers!
-
-## 📝 Submission 📝 
-
-When you're done celebrating Hacktoberfest with us, please submit your details via [this form](https://forms.gle/KLNUkrJdPgqAEDkd9) so that we can get in contact with you about shipping the prizes to you!
-
 # Welcome!
 
 Welcome to [Operation Code](https://github.com/OperationCode) and thank you for your interest in contributing. Everything Operation Code does is open source. We love to receive contributions to our community — you! There are many ways to contribute, from writing tutorials or blog posts, improving the documentation, submitting bug reports and feature requests or writing code which can be incorporated into the website itself.
