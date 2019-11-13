@@ -1,27 +1,14 @@
 <div align="center">
-  <br />
+  <br>
   <a href="https://operationcode.org">
     <img
-      alt="Operation Code Hacktoberfest Banner"
-      src="https://operation-code-assets.s3.us-east-2.amazonaws.com/operation_code_hacktoberfest_2019.jpg"
+      alt="Operation Code Logo"
+      src="https://operation-code-assets.s3.us-east-2.amazonaws.com/branding/logos/large-blue-logo.png"
     >
   </a>
-  <br />
-  <br />
+  <br>
+  <br>
 </div>
-
-# 🎃 Hacktoberfest 🎃
-
-We at Operation Code **LOVE** [Hacktoberfest](https://hacktoberfest.digitalocean.com). While [DigitalOcean](https://digitalocean.com), [GitHub](https://github.com), and [DEV](https://dev.to) are already sponsoring prizes for the world, we'd like to sweeten the pot.
-
-## 🎁 Prizes 🎁
-
-- Resolve 3 issues in any one of our repositories and receive a white or black Operation Code t-shirt!
-- Merge 2 pull requests in any one of our repositories and receive a small pack of Operation Code stickers!
-
-## 📝 Submission 📝 
-
-When you're done celebrating Hacktoberfest with us, please submit your details via [this form](https://forms.gle/KLNUkrJdPgqAEDkd9) so that we can get in contact with you about shipping the prizes to you!
 
 # Welcome!
 
