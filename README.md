@@ -124,7 +124,7 @@ You can find our official [Open Source Maintenance Policy](open_source_maintenan
 <table>
   <tr>
     <th>Purpose</th>
-    <td>Flask API for programming and cyber security learning resources.</td>
+    <td>Flask API for programming and cybersecurity learning resources.</td>
   </tr>
   <tr>
     <th>Languages</th>
