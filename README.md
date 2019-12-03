@@ -1,31 +1,18 @@
 <div align="center">
-  <br />
+  <br>
   <a href="https://operationcode.org">
     <img
-      alt="Operation Code Hacktoberfest Banner"
-      src="https://operation-code-assets.s3.us-east-2.amazonaws.com/operation_code_hacktoberfest_2019.jpg"
+      alt="Operation Code Logo"
+      src="https://operation-code-assets.s3.us-east-2.amazonaws.com/branding/logos/large-blue-logo.png"
     >
   </a>
-  <br />
-  <br />
+  <br>
+  <br>
 </div>
-
-# 🎃 Hacktoberfest 🎃
-
-We at Operation Code **LOVE** [Hacktoberfest](https://hacktoberfest.digitalocean.com). While [DigitalOcean](https://digitalocean.com), [GitHub](https://github.com), and [DEV](https://dev.to) are already sponsoring prizes for the world, we'd like to sweeten the pot.
-
-## 🎁 Prizes 🎁
-
-- Resolve 3 issues in any one of our repositories and receive a white or black Operation Code t-shirt!
-- Merge 2 pull requests in any one of our repositories and receive a small pack of Operation Code stickers!
-
-## 📝 Submission 📝 
-
-When you're done celebrating Hacktoberfest with us, please submit your details via [this form](https://forms.gle/KLNUkrJdPgqAEDkd9) so that we can get in contact with you about shipping the prizes to you!
 
 # Welcome!
 
-Welcome to [Operation Code](https://github.com/OperationCode) and thank you for your interest in contributing. Everything Operation Code does is open source. We love to receive contributions to our community — you! There are many ways to contribute, from writing tutorials or blog posts, improving the documentation, submitting bug reports and feature requests or writing code which can be incorporated into the website itself.
+Welcome to [Operation Code](https://github.com/OperationCode) and thank you for your interest in contributing. Everything Operation Code does is open source. We love to receive contributions from our community — you! There are many ways to contribute, from writing tutorials or blog posts, improving the documentation, submitting bug reports and feature requests or writing code which can be incorporated into the website itself.
 
 We've got quite a few repos, and we understand that can be overwhelming, so you can use this list to learn what the main applications are, and what languages they use.
 
@@ -188,32 +175,32 @@ Various open source projects with veteran and military-affiliated contributors, 
   </tr>
   <tr>
     <td>National Veterans Job Platform</td>
-    <td>One job one veteran at a time</td>
+    <td>One job one veteran at a time.</td>
     <td><a href="https://github.com/codeforamerica/JobOps">JobOps GitHub</a></td>
   </tr>
   <tr>
     <td>Department of Veterans Affairs Developer Area</td>
     <td>This is a repository of APIs and data related to the Department of Veterans Affairs (VA). These APIs, data, tools and resources are intended to provide developers with what they need to develop web and mobile applications, design data visualizations and stories using resources from the VA.</td>
-    <td><a href="https://github.com/va-data/va-developer">VaDeveloper GitHub</a></td>
+    <td><a href="https://github.com/department-of-veterans-affairs/developer-portal">VaDeveloper GitHub</a></td>
   </tr>
   <tr>
     <td>Department of Veterans Affairs Repo</td>
-    <td>Beta version of vets.gov</td>
+    <td>Beta version of <a href = "https://www.va.gov/">vets.gov</a>.</td>
     <td><a href="https://github.com/department-of-veterans-affairs">Vets.gov GitHub</a></td>
   </tr>
   <tr>
     <td>Mil-OSS</td>
-    <td>Repo for <a href="http://www.mil-oss.org/">mil-oss</a>, a group dedicated to utilizing & developing open technologies for national defense</td>
+    <td>Repo for <a href="http://www.mil-oss.org/">mil-oss</a>, a group dedicated to utilizing & developing open technologies for national defense.</td>
     <td><a href="https://github.com/mil-oss">mil-oss GitHub</a></td>
   </tr>
     <tr>
-    <td><a href="https://github.com/ronrihoo/startups-dot-vet-data">startups.vet</a> data analyzation</td>
+    <td><a href="https://github.com/ronrihoo/startups-dot-vet-data">startups.vet</a> Data Analyzation</td>
     <td>Project to analyze veteran entrepreneurship data from <a href="https://github.com/ronrihoo/startups-dot-vet-data">startups.vet</a></td>
     <td><a href="https://github.com/ronrihoo/startups-dot-vet-data">GitHub</a></td>
   </tr>
     <tr>
     <td>Veteran-led Companies Database</td>
-    <td>Project to collect data on veteran-owned companies</td>
+    <td>Project to collect data on veteran-owned companies.</td>
     <td><a href="https://github.com/billy22g/veteran_companies">Veteran Companies GitHub</a></td>
   </tr>
 </table>
