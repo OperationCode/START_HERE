@@ -181,7 +181,7 @@ Various open source projects with veteran and military-affiliated contributors, 
   <tr>
     <td>Department of Veterans Affairs Developer Area</td>
     <td>This is a repository of APIs and data related to the Department of Veterans Affairs (VA). These APIs, data, tools and resources are intended to provide developers with what they need to develop web and mobile applications, design data visualizations and stories using resources from the VA.</td>
-    <td><a href="https://github.com/va-data/va-developer">VaDeveloper GitHub</a></td>
+    <td><a href="https://github.com/department-of-veterans-affairs/developer-portal">VaDeveloper GitHub</a></td>
   </tr>
   <tr>
     <td>Department of Veterans Affairs Repo</td>
