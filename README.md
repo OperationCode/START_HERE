@@ -35,6 +35,8 @@ You can find our official [Open Source Maintenance Policy](open_source_maintenan
 
 # Operation Code Repositories
 
+Assuming you're ready and excited to work on Open Source Software with Operation Code, you'll want to choose the project that aligns with your interests most. From there, please be sure to read any and all documentation within the respective repository, including - but not limited to - `CONTRIBUTING.md` and `README.md`. Please understand our documentation is kept up-to-date, so we hope you read it all before coming to our all-volunteer staff with questions. If there is a gap or a mistake in our documentation, please let us know immediately!
+
 ## [OC Challenge](https://www.operationcode.org/challenge)
 
 <table>
