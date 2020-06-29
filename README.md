@@ -35,7 +35,7 @@ You can find our official [Open Source Maintenance Policy](open_source_maintenan
 
 # Operation Code Repositories
 
-## [OC Challenge](https://github.com/OperationCode/OC_Challenge)
+## [OC Challenge](https://www.operationcode.org/challenge)
 
 <table>
   <tr>
@@ -202,5 +202,10 @@ Various open source projects with veteran and military-affiliated contributors, 
     <td>Veteran-led Companies Database</td>
     <td>Project to collect data on veteran-owned companies.</td>
     <td><a href="https://github.com/billy22g/veteran_companies">Veteran Companies GitHub</a></td>
+  </tr>
+  <tr>
+    <td>#VetsWhoCode</td>
+    <td>A veteran-led and operated 501(c)(3) charitable non-profit that focuses on training veterans in web development and software engineering principles free of charge with the focus of starting careers as javascript developers.</td>
+    <td><a href="https://github.com/Vets-Who-Code">GitHub</a></td>
   </tr>
 </table>
