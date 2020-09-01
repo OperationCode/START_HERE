@@ -18,11 +18,11 @@
 * If you are a recruiter, please be mindful about not soliciting or spamming members. You may post your positions on #job-board.
 * For code schools, please post all solicitations *ONLY* on #code-schools as this is in our Code of Conduct.
 
-**ACT PROFESSIONAL**
+**ACT PROFESSIONALLY**
 * Operation Code is a community of professionals. Before you post, please think about your content and be inclusive.
 * Operation Code is not Reddit, or a platform for posts that instigate others or incites violence, political ideations or affiliations.
 * As with any large group of people, disagreements will happen. We understand that you’ll have some strong opinions, but we still expect courtesy during a debate and expect you to refrain from personal attacks.
-* If we see members acting unprofessional, moderators reserve the right to remove them from the community.
+* If we see members acting unprofessionally, moderators reserve the right to remove them from the community.
 
 **RULE VIOLATIONS**
 * Being a part of the Operation Code community is a privilege - not a right. Failure to adhere to the community guidelines can result in your messages being removed (either automatically by our bot, or at an administrator’s discretion). Repeated violation will result in loss of access to the community. You are also expected to follow our Code of Conduct [ here](https://github.com/OperationCode/operationcode_docs/blob/master/community/code_of_conduct.md) .
