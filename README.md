@@ -1,14 +1,27 @@
-<div align="center">
-  <br>
-  <a href="https://operationcode.org">
-    <img
-      alt="Operation Code Logo"
-      src="https://operation-code-assets.s3.us-east-2.amazonaws.com/branding/logos/large-blue-logo.png"
-    >
-  </a>
-  <br>
-  <br>
+<div align="center">	
+  <br />	
+  <a href="https://operationcode.org">	
+    <img	
+      alt="Operation Code Hacktoberfest Banner"	
+      src="https://operation-code-assets.s3.us-east-2.amazonaws.com/operationcode_hacktoberfest_2020.jpg"	
+    >	
+  </a>	
+  <br />	
+  <br />	
 </div>
+
+# 🎃 Hacktoberfest 🎃	
+
+We at Operation Code **LOVE** [Hacktoberfest](https://hacktoberfest.digitalocean.com). While the official sponsors of Hacktoberfest are already offering t-shirts as a reward for finishing the Hacktoberfest challenge, we'll be offering our own prize system to encourage you to contribute to us. This is our 3rd year doing this ❤️!
+
+## 🎁 Prizes 🎁	
+
+- Resolve 3 issues in any one of our repositories and receive a white or black Operation Code t-shirt!	
+- Merge 2 pull requests in any one of our repositories and receive a small pack of Operation Code stickers!	
+
+## 📝 Submission 📝 	
+
+When you're done celebrating Hacktoberfest with us, please submit your details via [this form](https://comingsoon.com/) so that we can get in contact with you about shipping the prizes to you!
 
 # Welcome!
 
