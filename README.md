@@ -1,14 +1,13 @@
-<div align="center">	
-  <br />	
-  <a href="https://operationcode.org">	
-    <img	
-      alt="Operation Code Hacktoberfest Banner"	
-      src="https://operation-code-assets.s3.us-east-2.amazonaws.com/operationcode_hacktoberfest_2020.jpg"	
-    >	
-  </a>	
-  <br />	
-  <br />	
+<div align="center">
+  <a href="https://operationcode.org" height="750" width="750">
+    <img
+      alt="Operation Code Hacktoberfest Banner"
+      src="https://operation-code-assets.s3.us-east-2.amazonaws.com/operationcode_hacktoberfest_2020.jpg"
+    >
+  </a>
 </div>
+<br />
+<br />
 
 # 🎃 Hacktoberfest 🎃	
 
