@@ -20,7 +20,7 @@ We at Operation Code **LOVE** [Hacktoberfest](https://hacktoberfest.digitalocean
 
 ## 📝 Submission 📝 	
 
-When you're done celebrating Hacktoberfest with us, please submit your details via [this form](https://comingsoon.com/) so that we can get in contact with you about shipping the prizes to you!
+When you're done celebrating Hacktoberfest with us, please submit your details via [this form](https://forms.gle/CYbzgAuFhj5YUwgG8) so that we can get in contact with you about shipping the prizes to you!
 
 # Welcome!
 
