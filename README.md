@@ -11,7 +11,7 @@
 
 # 🎃 Hacktoberfest 🎃	
 
-We at Operation Code **LOVE** [Hacktoberfest](https://hacktoberfest.digitalocean.com). While the official sponsors of Hacktoberfest are already offering t-shirts as a reward for finishing the Hacktoberfest challenge, we'll be offering our own prize system to encourage you to contribute to us. This is our 3rd year doing this ❤️!
+We at Operation Code **LOVE** [Hacktoberfest](https://hacktoberfest.digitalocean.com). While the official sponsors of Hacktoberfest are already offering t-shirts as a reward for finishing the Hacktoberfest challenge, we'll be offering our own prize system to encourage you to contribute to us. This is our 4th year in actively participating in Hacktoberfest and our 3rd year sponsoring our own prizes for contributions! ❤️
 
 ## 🎁 Prizes 🎁	
 
