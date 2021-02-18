@@ -1,6 +1,6 @@
 # Operation Code Slack Community Guidelines
 
-*Operation Code is a community platform with the goal of creating and fostering collaborations, participate in conversations surrounding the technology industry, ask for help or provide constructive and respectful feedback, and assist one another.*
+*Operation Code is a community platform with transitioning servicemembers, military veterans, military families, and civilian allies. Our goal is creating and fostering collaborations, participate in conversations surrounding the tech industry, ask for help or provide constructive and respectful feedback, and assist one another. More specific guidance can be found in our [Code of Conduct](https://github.com/OperationCode/operationcode_docs/blob/master/community/code_of_conduct.md) for reference.*
 
 **INTRODUCE YOURSELF**
 * Upon arrival in the Operation Code community Slack, please provide a short description of who you are, what you are looking to achieve while here, and how we can help you in the #general channel. 
@@ -15,17 +15,24 @@
 **SELF-PROMOTION**
 * We value your individual journey and the projects you’re working on. Sharing your projects allows the community to assist you.
 * Submit requests for advice on #career-advice. For project promotion, you can post to #brags or #random.
-* If you are a recruiter, please be mindful about not soliciting or spamming members. You may post your positions on #job-board.
-* For code schools, please post all solicitations *ONLY* on #code-schools as this is in our Code of Conduct.
+* The community generally frowns on unsolicited advertising. In general, our guidelines are that you:
+1. Ask permission of the channel before posting the solicitation or information
+2. State clear intent for the purpose
+3. Listen for the response of your peers in channel and act accordingly
+* There are specific channels, such as #job-board and #code-schools, where advertising and recruiting is acceptable.
+* Some geographically-focused channels have a higher tolerance for specific kinds of commercial activity focused on events based in that region. Again, read the room.
+* Commercial requests via direct messages (“DM”) without prior and/or obvious consent from the receiver are prohibited.
+* Please contact moderators@operationcode.org if you have more specific questions.
 
 **ACT PROFESSIONALLY**
-* Operation Code is a community of professionals. Before you post, please think about your content and be inclusive.
-* Operation Code is not Reddit, or a platform for posts that instigate others or incites violence, political ideations or affiliations.
+* Operation Code is a community of professionals. Before you post, please think about your content and be inclusive. 
+* Don’t be a bystander, be a leader. Role model respectful behaviour, but also help to address disrespect when you see it.
 * As with any large group of people, disagreements will happen. We understand that you’ll have some strong opinions, but we still expect courtesy during a debate and expect you to refrain from personal attacks.
-* If we see members acting unprofessionally, moderators reserve the right to remove them from the community.
+* Operation Code is not a platform for posts that instigate others or incites violence, political ideations or affiliations.
+* If we see members acting unprofessionally, moderators may take action regarding their ability to participate in the community.
 
 **RULE VIOLATIONS**
-* Being a part of the Operation Code community is a privilege - not a right. Failure to adhere to the community guidelines can result in your messages being removed (either automatically by our bot, or at an administrator’s discretion). Repeated violation will result in loss of access to the community. You are also expected to follow our Code of Conduct [ here](https://github.com/OperationCode/operationcode_docs/blob/master/community/code_of_conduct.md) .
+* Being a part of the Operation Code community is a privilege - not a right. Failure to adhere to the community guidelines can result in your messages being removed (either automatically by our bot, or at an administrator’s discretion). Repeated violation will result in loss of access to the community.
 
 ## For volunteers and mentors
 *Volunteers and mentors are an integral part of our day to day operations and support for Operation Code! Your involvement and interactions set you apart as leaders and representatives of our community. We greatly appreciate your volunteering with us, and we understand that your personal and professional lives take priority over volunteer work.*
