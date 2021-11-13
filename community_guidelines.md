@@ -4,18 +4,21 @@
 
 **INTRODUCE YOURSELF**
 * Upon arrival in the Operation Code community Slack, please provide a short description of who you are, what you are looking to achieve while you're here, and how we can help you in the #general channel. 
+* Please keep high level announcements to a minimum on #general and thread whenever possible as notifications in this channel will notify the entire community. 
 
 **BE AUTHENTIC**
-* Please place your real name in your profile separate from your username and any relevant links to your Github, Twitter or LinkedIn if you wish. We encourage you to be transparent as this will create honest and meaningful connections and dialogue.
+* Please place your real name in your profile separate from your username and any relevant links to your GitHub, Twitter or LinkedIn if you wish. We encourage you to be transparent as this will create honest and meaningful connections and dialogue.
 
 **CREATE DISCUSSION**
 * Respectful and positive engagement and participation creates and fosters individual and community growth.
 * Feel free to respond to your POC from the Outreach Team, who will help you connect with others and provide additional guidance or resources.
+* We have a #random channel for casual discussions. Please join the channel #mental-health for peer to peer support and 24/7 resources posted on the channel details.
 
 **SELF-PROMOTION**
 * We value your individual journey and the projects you’re working on. Sharing your projects allows the community to assist you.
 * Submit requests for advice on #career-advice. For project promotion, you can post to #brags or #random.
-* If you are a recruiter, please be mindful about not soliciting or spamming members. You may post your positions on #job-board.
+* If you are a recruiter, please be mindful about not soliciting or spamming members. 
+* You may post your positions on #job-board using the job template by clicking the lighting icon (workflow shortcut) on your message keyboard options.
 * For code schools, please post all solicitations *ONLY* on #code-schools, per our Code of Conduct.
 
 **ACT PROFESSIONALLY**
@@ -23,6 +26,7 @@
 * Operation Code is not Reddit or Twitter. We are not a platform for posts that instigate others or incites violence, political ideations or affiliations.
 * As with any large group of people, disagreements will happen. We understand that you’ll have some strong opinions, but we still expect courtesy during a debate and expect you to refrain from personal attacks.
 * If we see members acting unprofessionally, our moderators reserve the right to remove them from the community.
+* We have a no-monetary donation policy at Operation Code. If you are seeking help, please request referrals through staff@operationcode.org and refrain from asking mentors of volunteer staff for money.
 
 **RULE VIOLATIONS**
 * Being a part of the Operation Code community is a privilege - not a right. Failure to adhere to the community guidelines can result in your messages being removed (either automatically by our bot, or at an administrator’s discretion). Repeated violation will result in loss of access to the community. You are also expected to follow our Code of Conduct [ here](https://github.com/OperationCode/operationcode_docs/blob/master/community/code_of_conduct.md) .
