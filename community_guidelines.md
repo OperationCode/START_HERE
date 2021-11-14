@@ -4,13 +4,15 @@
 
 **INTRODUCE YOURSELF**
 * Upon arrival in the Operation Code community Slack, please provide a short description of who you are, what you are looking to achieve while you're here, and how we can help you in the #general channel. 
+* Please keep high level announcements to a minimum on #general and thread whenever possible as notifications in this channel will notify the entire community. 
 
 **BE AUTHENTIC**
-* Please place your real name in your profile separate from your username and any relevant links to your Github, Twitter or LinkedIn if you wish. We encourage you to be transparent as this will create honest and meaningful connections and dialogue.
+* Please place your real name in your profile separate from your username and any relevant links to your GitHub, Twitter or LinkedIn if you wish. We encourage you to be transparent as this will create honest and meaningful connections and dialogue.
 
 **CREATE DISCUSSION**
 * Respectful and positive engagement and participation creates and fosters individual and community growth.
 * Feel free to respond to your POC from the Outreach Team, who will help you connect with others and provide additional guidance or resources.
+* We have a #random channel for casual discussions. Please join the channel #mental-health for peer to peer support and 24/7 resources posted on the channel details.
 
 **SELF-PROMOTION**
 * We value your individual journey and the projects you’re working on. Sharing your projects allows the community to assist you.
@@ -27,6 +29,8 @@
 **ACT PROFESSIONALLY**
 * Operation Code is a community of professionals. Before you post, please consider the content and model respectful behavior to others.
 * As with any large group of people, disagreements will happen. We understand that you’ll have some strong opinions, but we still expect courtesy during a debate and expect you to refrain from personal attacks.
+* If we see members acting unprofessionally, our moderators reserve the right to remove them from the community.
+* We have a no-monetary donation policy at Operation Code. If you are seeking help, please request referrals through staff@operationcode.org and refrain from asking mentors of volunteer staff for money.
 * If we see members acting unprofessionally, moderators may take action regarding their ability to participate in the community.
 * If you are a recruiter, please be mindful about not soliciting or spamming members. You may post your positions on #job-board.
 * For code schools, please post all solicitations *ONLY* on #coding-schools, per our Code of Conduct.
