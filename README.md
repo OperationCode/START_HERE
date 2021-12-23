@@ -1,26 +1,13 @@
 <div align="center">
   <a href="https://operationcode.org" height="750" width="750">
     <img
-      alt="Operation Code Hacktoberfest Banner"
-      src="https://operation-code-assets.s3.us-east-2.amazonaws.com/operationcode_hacktoberfest_2020.jpg"
+      alt="Operation Code"
+      src="https://operation-code-assets.s3.us-east-2.amazonaws.com/branding/logos/large-logo.png"
     >
   </a>
 </div>
 <br />
 <br />
-
-# 🎃 Hacktoberfest 🎃	
-
-We at Operation Code **LOVE** [Hacktoberfest](https://hacktoberfest.digitalocean.com). While the official sponsors of Hacktoberfest are already offering t-shirts as a reward for finishing the Hacktoberfest challenge, we'll be offering our own prize system to encourage you to contribute to us. This is our 4th year in actively participating in Hacktoberfest and our 3rd year sponsoring our own prizes for contributions! ❤️
-
-## 🎁 Prizes 🎁	
-
-- Resolve 3 issues in any one of our repositories and receive a white or black Operation Code t-shirt!	
-- Merge 2 pull requests in any one of our repositories and receive a small pack of Operation Code stickers!	
-
-## 📝 Submission 📝 	
-
-When you're done celebrating Hacktoberfest with us, please submit your details via [this form](https://forms.gle/CYbzgAuFhj5YUwgG8) so that we can get in contact with you about shipping the prizes to you!
 
 # Welcome!
 
@@ -38,8 +25,8 @@ Working on your first Pull Request? Be sure to check the project's contributing 
 
 Feel free to ask for help; everyone is a beginner at first :smile_cat:
 If a maintainer asks you to "rebase" your PR, they're saying that a lot of code has changed and that you need to update your branch so it's easier to merge.
-
-Once you've joined Operation Code as a member, after your first PR (pull request) contribution is accepted, please fill out [this form](https://goo.gl/forms/dxbEmwMuGRrJudeK2) to get your sticker!
+<!-- TODO: update google form link for first PR sticker -->
+<!-- Once you've joined Operation Code as a member, after your first PR (pull request) contribution is accepted, please fill out [this form](https://goo.gl/forms/dxbEmwMuGRrJudeK2) to get your sticker! -->
 
 # Open Source Maintenance Policy
 
@@ -154,26 +141,7 @@ Assuming you're ready and excited to work on Open Source Software with Operation
   </tr>
 </table>
 
-## [Town Crier](https://github.com/OperationCode/town-crier)
 
-<table>
-  <tr>
-    <th>Purpose</th>
-    <td>Slack bot with a <code>cron</code> like interface to notify members of Operation Code opportunities  </td>
-  </tr>
-  <tr>
-    <th>Languages</th>
-    <td><a href="https://github.com/OperationCode/town-crier/search?l=javascript">Javascript</a></td>
-  </tr>
-  <tr>
-    <th>Frameworks</th>
-    <td><a href="https://nodejs.org">Node.js</a></td>
-  </tr>
-    <tr>
-    <th>Link</th>
-    <td><a href="https://github.com/OperationCode/town-crier">GitHub Repo</a></td>
-  </tr>
-</table>
 
 # Outside Organizations/Projects
 
