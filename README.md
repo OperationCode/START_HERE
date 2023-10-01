@@ -1,3 +1,5 @@
+![](https://i.imgur.com/mW5LUGV.jpg)
+
 # Welcome!
 
 Welcome to [Operation Code](https://github.com/OperationCode) and thank you for your interest in contributing. Everything Operation Code does is open source. We love to receive contributions from our community — you! There are many ways to contribute, from writing tutorials or blog posts, improving the documentation, submitting bug reports and feature requests or writing code which can be incorporated into the website itself.
